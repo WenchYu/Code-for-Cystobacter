@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="pair_similarity" attr.type="double"/>
+<key id="d1" for="node" attr.name="core_peptide" attr.type="string"/>
+<key id="d0" for="node" attr.name="gbk_name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="0">
+  <data key="d0">ANAH02000014.1.region001.gbk_1</data>
+  <data key="d1">RCVRCHAREHMRTSHRVAGRRRS</data>
+</node>
+<node id="1">
+  <data key="d0">ANAH02000014.1.region001.gbk_2</data>
+  <data key="d1">EQVNPSFRGCPAGK</data>
+</node>
+<node id="2">
+  <data key="d0">ANAH02000014.1.region001.gbk_3</data>
+  <data key="d1">NERHPTQGPGKTPGCPASDHSEGGNCPGREGPPP</data>
+</node>
+<node id="3">
+  <data key="d0">ANAH02000066.1.region002.gbk_1</data>
+  <data key="d1">AGVNASCGWSSCNRTN</data>
+</node>
+<node id="4">
+  <data key="d0">ANAH02000066.1.region002.gbk_2</data>
+  <data key="d1">NCDCSATITPPSNPFEEQ</data>
+</node>
+<node id="5">
+  <data key="d0">ANAH02000066.1.region002.gbk_3</data>
+  <data key="d1">PSTLGGRQPHAPSAPALSLHRSSLRRQVASLEFFDTLSGLPQANCQFLLIERLRRGA</data>
+</node>
+<node id="6">
+  <data key="d0">ANAH02000066.1.region002.gbk_4</data>
+  <data key="d1">TTARSLCTCALPPQVFSSPPGRIARILRHPLRPTASKLPIPSH</data>
+</node>
+<node id="7">
+  <data key="d0">CP022098.1.region007.gbk_1</data>
+  <data key="d1">YKYNRRQKQWMSWWGAGSGGVHFRQGMDLECADEHRCGCFVGMLWPAWCV</data>
+</node>
+<node id="8">
+  <data key="d0">CP022098.1.region007.gbk_2</data>
+  <data key="d1">HPRTEHFKEDIIQAFYDGIKHKPRTTFGNVKADVIADKEPLFIRGNFCRVIRESAWRG</data>
+</node>
+<node id="9">
+  <data key="d0">CP022098.1.region007.gbk_3</data>
+  <data key="d1">PAGIVELSDEALDSLLSGGKQVSSCCWESC</data>
+</node>
+<node id="10">
+  <data key="d0">CP022098.1.region007.gbk_4</data>
+  <data key="d1">TRRNGSSPVKSTECSSQFPIFDLISTEAP</data>
+</node>
+<node id="11">
+  <data key="d0">CP022098.1.region007.gbk_5</data>
+  <data key="d1">VVEAGSFSAAARALVMNSGALRGLPTPCTQANARSNKTKPFRKDDRPAGI</data>
+</node>
+<node id="12">
+  <data key="d0">CP022098.1.region007.gbk_6</data>
+  <data key="d1">LSPDRWRKRRHLAARSRRCWPCGW</data>
+</node>
+<node id="13">
+  <data key="d0">CP022098.1.region007.gbk_7</data>
+  <data key="d1">TCPD</data>
+</node>
+<node id="14">
+  <data key="d0">CP022098.1.region039.gbk_1</data>
+  <data key="d1">EGWHECCTGSGSFHPPRMVPTAGE</data>
+</node>
+<node id="15">
+  <data key="d0">CP022098.1.region039.gbk_2</data>
+  <data key="d1">WKDPDPVQHSCHPSPPRTHERPILRLFQDVFQGVSRKPFTLRTSSQALTGL</data>
+</node>
+<node id="16">
+  <data key="d0">CP022098.1.region039.gbk_3</data>
+  <data key="d1">GILEPTSAYCTPCPPKYCY</data>
+</node>
+<node id="17">
+  <data key="d0">CP022098.1.region039.gbk_4</data>
+  <data key="d1">CVILPIWEFWCPRGGRS</data>
+</node>
+<node id="18">
+  <data key="d0">CP043492.1.region010.gbk_1</data>
+  <data key="d1">LGLWATAAWRSTPCSLAPGVGVAARARPTSTELSSSSVTSWKNSSG</data>
+</node>
+<node id="19">
+  <data key="d0">CP043492.1.region010.gbk_2</data>
+  <data key="d1">YWGSAGMGSQLLVCPTWHQSADQLFPITSTGCAPHLFERAKRR</data>
+</node>
+<node id="20">
+  <data key="d0">CP043492.1.region010.gbk_3</data>
+  <data key="d1">LSKRCGAHPVDVMGKS</data>
+</node>
+<node id="21">
+  <data key="d0">CP043492.1.region010.gbk_4</data>
+  <data key="d1">PERGGARVRSLESCRRD</data>
+</node>
+<node id="22">
+  <data key="d0">CP043492.1.region010.gbk_5</data>
+  <data key="d1">TSC</data>
+</node>
+<node id="23">
+  <data key="d0">CP043492.1.region010.gbk_6</data>
+  <data key="d1">ASGLGTPYRLPAAGPSTWRPAPASRPRVRWRARGRDRVRTSASSRSPCAA</data>
+</node>
+<node id="24">
+  <data key="d0">CP043492.1.region010.gbk_7</data>
+  <data key="d1">PSGGSRSYARRASCIRFARFLPEEPVW</data>
+</node>
+<node id="25">
+  <data key="d0">MPIN01000015.1.region001.gbk_1</data>
+  <data key="d1">RASTPDLASNAVHCRTET</data>
+</node>
+<node id="26">
+  <data key="d0">MPIN01000015.1.region001.gbk_2</data>
+  <data key="d1">CADSGLVLLPSWPR</data>
+</node>
+<node id="27">
+  <data key="d0">MPIN01000015.1.region001.gbk_3</data>
+  <data key="d1">EGRSTRSKACDRSSRQWWDARGVPAHLQPRLQSH</data>
+</node>
+<node id="28">
+  <data key="d0">CP043491.1.region025.gbk_1</data>
+  <data key="d1">GGQEATASNVSLVNCEASSSLSLLLC</data>
+</node>
+<node id="29">
+  <data key="d0">CP043491.1.region007.gbk_1</data>
+  <data key="d1">RDTRGHQGLGDCMQPTRPHPACRQGEEATERGPSENGTDE</data>
+</node>
+<node id="30">
+  <data key="d0">CP043491.1.region007.gbk_2</data>
+  <data key="d1">LSKKVWCAPGGCDGKS</data>
+</node>
+<node id="31">
+  <data key="d0">CP043491.1.region007.gbk_3</data>
+  <data key="d1">WSLALGSPPFCSLKKGVVRTRWM</data>
+</node>
+<node id="32">
+  <data key="d0">CP043491.1.region007.gbk_4</data>
+  <data key="d1">PERGGARARSLESCRRD</data>
+</node>
+<node id="33">
+  <data key="d0">CP043491.1.region007.gbk_5</data>
+  <data key="d1">QQDSGTGIAAPCYLCQCLAGGGGADGRLRR</data>
+</node>
+<node id="34">
+  <data key="d0">CP043491.1.region007.gbk_6</data>
+  <data key="d1">TSC</data>
+</node>
+<node id="35">
+  <data key="d0">CP043491.1.region007.gbk_7</data>
+  <data key="d1">HRRWAGRGRCGAVTCKGVGRIDSPTSRDRAAGPRLPQ</data>
+</node>
+<node id="36">
+  <data key="d0">CP043491.1.region007.gbk_8</data>
+  <data key="d1">ARHTASHPVSSSAAPSGRCHVGTMAVAAKRSVLMP</data>
+</node>
+<node id="37">
+  <data key="d0">CP043491.1.region007.gbk_9</data>
+  <data key="d1">PSGGSRSYARRASCIRFARVLPKEPVW</data>
+</node>
+<node id="38">
+  <data key="d0">MPIN01000009.1.region002.gbk_1</data>
+  <data key="d1">TDGGQEQAPSNLSLIGECSSGLSLLLC</data>
+</node>
+<node id="39">
+  <data key="d0">CP043492.1.region037.gbk_1</data>
+  <data key="d1">TRSTARCFCTSSSTCTVSGACPHRASRPGKVWW</data>
+</node>
+<node id="40">
+  <data key="d0">CP043492.1.region037.gbk_2</data>
+  <data key="d1">QALSTSCGPVLTLSSGCYIKLDLDEPYVEALTYAAPSSAVIRRSGGPPGSPLP</data>
+</node>
+<node id="41">
+  <data key="d0">CP043492.1.region037.gbk_3</data>
+  <data key="d1">SCGDSRVCVGDCCADGV</data>
+</node>
+<node id="42">
+  <data key="d0">ANAH02000064.1.region003.gbk_1</data>
+  <data key="d1">ADGGQEPAASNISLVDCEMGSGLSLLLC</data>
+</node>
+<node id="43">
+  <data key="d0">CP043492.1.region031.gbk_1</data>
+  <data key="d1">AGQEATASNLSLLDCEASSGVSLLLC</data>
+</node>
+<edge source="5" target="7">
+  <data key="d2">0.8061895927222186</data>
+</edge>
+<edge source="5" target="11">
+  <data key="d2">0.8056530922985622</data>
+</edge>
+<edge source="5" target="15">
+  <data key="d2">0.806519525849374</data>
+</edge>
+<edge source="5" target="23">
+  <data key="d2">0.8016755946369714</data>
+</edge>
+<edge source="5" target="40">
+  <data key="d2">0.820669407468488</data>
+</edge>
+<edge source="6" target="11">
+  <data key="d2">0.8005630583092647</data>
+</edge>
+<edge source="6" target="15">
+  <data key="d2">0.8011871970615452</data>
+</edge>
+<edge source="7" target="11">
+  <data key="d2">0.8000416536503527</data>
+</edge>
+<edge source="7" target="40">
+  <data key="d2">0.8014601914143993</data>
+</edge>
+<edge source="8" target="15">
+  <data key="d2">0.8051945750608606</data>
+</edge>
+<edge source="9" target="40">
+  <data key="d2">0.8005642806124329</data>
+</edge>
+<edge source="11" target="15">
+  <data key="d2">0.8051654125893491</data>
+</edge>
+<edge source="11" target="23">
+  <data key="d2">0.812956094083435</data>
+</edge>
+<edge source="11" target="40">
+  <data key="d2">0.8092791255092591</data>
+</edge>
+<edge source="15" target="40">
+  <data key="d2">0.8080649764778771</data>
+</edge>
+<edge source="18" target="23">
+  <data key="d2">0.8002310042894427</data>
+</edge>
+<edge source="18" target="36">
+  <data key="d2">0.8037669454977866</data>
+</edge>
+<edge source="18" target="39">
+  <data key="d2">0.8009014334618882</data>
+</edge>
+<edge source="18" target="40">
+  <data key="d2">0.8011382746025844</data>
+</edge>
+<edge source="21" target="32">
+  <data key="d2">0.875</data>
+</edge>
+<edge source="22" target="34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="24" target="37">
+  <data key="d2">0.8912143413559157</data>
+</edge>
+<edge source="28" target="43">
+  <data key="d2">0.8503337045290423</data>
+</edge>
+<edge source="38" target="42">
+  <data key="d2">0.8035840324428127</data>
+</edge>
+</graph></graphml>

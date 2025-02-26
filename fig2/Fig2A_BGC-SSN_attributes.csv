@@ -1,0 +1,241 @@
+BiG-SCAPE class,name,Product Prediction,selected,shared name,single,Strains,__ccCluster
+NRPS,ANAH02000021.1.region002,NRPS,FALSE,ANAH02000021.1.region002,,C.  fuscus DSM 2262,99
+NRPS,CP043492.1.region034,NRPS,FALSE,CP043492.1.region034,,C.  fuscus Cbf8,98
+Terpene,CP043492.1.region006,terpene,FALSE,CP043492.1.region006,,C.  fuscus Cbf8,97
+RiPPs,ANAH02000067.1.region003,lanthipeptide-class-i,FALSE,ANAH02000067.1.region003,,C.  fuscus DSM 2262,96
+RiPPs,CP022098.1.region027,RRE-containing,FALSE,CP022098.1.region027,,C.  fuscus DSM 52655,95
+RiPPs,CP043492.1.region037,RiPP-like.lanthipeptide-class-ii,FALSE,CP043492.1.region037,,C.  fuscus Cbf8,94
+RiPPs,CP022098.1.region028,lanthipeptide-class-i,FALSE,CP022098.1.region028,,C.  fuscus DSM 52655,93
+RiPPs,ANAH02000016.1.region001,redox-cofactor,FALSE,ANAH02000016.1.region001,,C.  fuscus DSM 2262,92
+Terpene,MPIN01000003.1.region003,terpene,FALSE,MPIN01000003.1.region003,,C.  ferrugineus Cbfe23,91
+RiPPs,CP022098.1.region014,redox-cofactor,FALSE,CP022098.1.region014,,C.  fuscus DSM 52655,90
+Others,CP043491.1.region016,other,FALSE,CP043491.1.region016,,C.  fuscus Cbf10,89
+NRPS,ANAH02000027.1.region002,NRPS,FALSE,ANAH02000027.1.region002,,C.  fuscus DSM 2262,88
+RiPPs,CP022098.1.region007,lanthipeptide-class-ii,FALSE,CP022098.1.region007,,C.  fuscus DSM 52655,87
+RiPPs,CP043491.1.region009,lanthipeptide-class-iv,FALSE,CP043491.1.region009,,C.  fuscus Cbf10,86
+PKS-NRP_Hybrids,ANAH02000020.1.region002,T1PKS.NRPS,FALSE,ANAH02000020.1.region002,,C.  fuscus DSM 2262,85
+Saccharides,MPIN01000002.1.region002,amglyccycl,FALSE,MPIN01000002.1.region002,,C.  ferrugineus Cbfe23,84
+NRPS,MPIN01000003.1.region002,NRPS,FALSE,MPIN01000003.1.region002,,C.  ferrugineus Cbfe23,83
+RiPPs,CP022098.1.region039,lanthipeptide-class-ii,FALSE,CP022098.1.region039,,C.  fuscus DSM 52655,82
+Terpene,CP043491.1.region021,terpene,FALSE,CP043491.1.region021,,C.  fuscus Cbf10,81
+NRPS,MPIN01000007.1.region001,NRPS,FALSE,MPIN01000007.1.region001,,C.  ferrugineus Cbfe23,80
+NRPS,CP022098.1.region008,NRPS,FALSE,CP022098.1.region008,,C.  fuscus DSM 52655,79
+RiPPs,ANAH02000021.1.region001,thioamitides,FALSE,ANAH02000021.1.region001,,C.  fuscus DSM 2262,78
+Others,CP022098.1.region016,RiPP-like.NRPS,FALSE,CP022098.1.region016,,C.  fuscus DSM 52655,77
+NRPS,CP022098.1.region023,NRPS,FALSE,CP022098.1.region023,,C.  fuscus DSM 52655,76
+Others,CP043491.1.region036,indole,FALSE,CP043491.1.region036,,C.  fuscus Cbf10,75
+RiPPs,CP043491.1.region012,redox-cofactor,FALSE,CP043491.1.region012,,C.  fuscus Cbf10,74
+RiPPs,ANAH02000009.1.region002,LAP,FALSE,ANAH02000009.1.region002,,C.  fuscus DSM 2262,73
+RiPPs,ANAH02000027.1.region001,RiPP-like,FALSE,ANAH02000027.1.region001,,C.  fuscus DSM 2262,72
+Terpene,MPIN01000004.1.region002,terpene,FALSE,MPIN01000004.1.region002,,C.  ferrugineus Cbfe23,71
+RiPPs,ANAH02000010.1.region003,RiPP-like,FALSE,ANAH02000010.1.region003,,C.  fuscus DSM 2262,70
+Others,CP022098.1.region031,butyrolactone,FALSE,CP022098.1.region031,,C.  fuscus DSM 52655,69
+NRPS,MPIN01000005.1.region001,NRPS,FALSE,MPIN01000005.1.region001,,C.  ferrugineus Cbfe23,68
+RiPPs,ANAH02000066.1.region002,lanthipeptide-class-ii,FALSE,ANAH02000066.1.region002,,C.  fuscus DSM 2262,67
+Terpene,ANAH02000005.1.region002,terpene,FALSE,ANAH02000005.1.region002,,C.  fuscus DSM 2262,66
+NRPS,CP043492.1.region009,NRPS,FALSE,CP043492.1.region009,,C.  fuscus Cbf8,65
+Others,CP043491.1.region031,indole,FALSE,CP043491.1.region031,,C.  fuscus Cbf10,64
+Others,ANAH02000064.1.region003,lanthipeptide-class-iv.NRPS,FALSE,ANAH02000064.1.region003,,C.  fuscus DSM 2262,63
+RiPPs,CP043492.1.region008,redox-cofactor,FALSE,CP043492.1.region008,,C.  fuscus Cbf8,62
+NRPS,MPIN01000001.1.region002,NRPS,FALSE,MPIN01000001.1.region002,,C.  ferrugineus Cbfe23,61
+Terpene,CP022098.1.region041,terpene,FALSE,CP022098.1.region041,,C.  fuscus DSM 52655,60
+RiPPs,CP043492.1.region014,thioamitides,FALSE,CP043492.1.region014,,C.  fuscus Cbf8,59
+RiPPs,CP043491.1.region028,RiPP-like,FALSE,CP043491.1.region028,,C.  fuscus Cbf10,58
+Terpene,ANAH02000067.1.region001,terpene,FALSE,ANAH02000067.1.region001,,C.  fuscus DSM 2262,57
+RiPPs,MPIN01000012.1.region001,thiopeptide,FALSE,MPIN01000012.1.region001,,C.  ferrugineus Cbfe23,56
+Others,CP043492.1.region017,RiPP-like.NRPS,FALSE,CP043492.1.region017,,C.  fuscus Cbf8,55
+NRPS,CP022098.1.region019,NRPS,FALSE,CP022098.1.region019,,C.  fuscus DSM 52655,54
+PKS-NRP_Hybrids,MPIN01000025.1.region001,T1PKS.NRPS,FALSE,MPIN01000025.1.region001,,C.  ferrugineus Cbfe23,49
+PKS-NRP_Hybrids,BGC0001344,T1PKS.NRPS,FALSE,BGC0001344,,MIBiG,49
+PKS-NRP_Hybrids,CP022098.1.region044,T1PKS.NRPS,FALSE,CP022098.1.region044,,C.  fuscus DSM 52655,48
+PKS-NRP_Hybrids,BGC0000335,NRPS.T1PKS,FALSE,BGC0000335,,MIBiG,48
+RiPPs,CP043492.1.region010,lanthipeptide-class-ii,FALSE,CP043492.1.region010,,C.  fuscus Cbf8,47
+RiPPs,CP043491.1.region007,lanthipeptide-class-ii,FALSE,CP043491.1.region007,,C.  fuscus Cbf10,47
+RiPPs,CP043491.1.region022,RiPP-like,FALSE,CP043491.1.region022,,C.  fuscus Cbf10,29
+PKS-NRP_Hybrids,CP043492.1.region029,NRPS.NRPS-like.T1PKS,FALSE,CP043492.1.region029,,C.  fuscus Cbf8,23
+NRPS,MPIN01000016.1.region002,NRPS-like,FALSE,MPIN01000016.1.region002,,C.  ferrugineus Cbfe23,53
+NRPS,MPIN01000002.1.region001,NRPS-like,FALSE,MPIN01000002.1.region001,,C.  ferrugineus Cbfe23,5
+RiPPs,CP043492.1.region026,lanthipeptide-class-i,FALSE,CP043492.1.region026,,C.  fuscus Cbf8,46
+RiPPs,CP043491.1.region020,lanthipeptide-class-i,FALSE,CP043491.1.region020,,C.  fuscus Cbf10,46
+NRPS,MPIN01000016.1.region001,NRPS,FALSE,MPIN01000016.1.region001,,C.  ferrugineus Cbfe23,45
+NRPS,BGC0001413,NRPS,FALSE,BGC0001413,,MIBiG,45
+PKSother,ANAH02000010.1.region002,T3PKS,FALSE,ANAH02000010.1.region002,,C.  fuscus DSM 2262,12
+RiPPs,CP043492.1.region041,RiPP-like.microviridin,FALSE,CP043492.1.region041,,C.  fuscus Cbf8,24
+RiPPs,CP043491.1.region037,microviridin,FALSE,CP043491.1.region037,,C.  fuscus Cbf10,24
+NRPS,CP043492.1.region030,NRPS,FALSE,CP043492.1.region030,,C.  fuscus Cbf8,44
+NRPS,CP022098.1.region032,NRPS,FALSE,CP022098.1.region032,,C.  fuscus DSM 52655,44
+NRPS,MPIN01000020.1.region001,NRPS,FALSE,MPIN01000020.1.region001,,C.  ferrugineus Cbfe23,43
+RiPPs,CP022098.1.region010,RiPP-like,FALSE,CP022098.1.region010,,C.  fuscus DSM 52655,43
+RiPPs,CP043491.1.region015,RiPP-like,FALSE,CP043491.1.region015,,C.  fuscus Cbf10,34
+PKSother,ANAH02000067.1.region002,PKS-like,FALSE,ANAH02000067.1.region002,,C.  fuscus DSM 2262,33
+RiPPs,CP043491.1.region039,RiPP-like,FALSE,CP043491.1.region039,,C.  fuscus Cbf10,21
+Terpene,CP043492.1.region045,terpene,FALSE,CP043492.1.region045,,C.  fuscus Cbf8,20
+RiPPs,CP022098.1.region046,RiPP-like,FALSE,CP022098.1.region046,,C.  fuscus DSM 52655,28
+RiPPs,MPIN01000001.1.region006,RiPP-like,FALSE,MPIN01000001.1.region006,,C.  ferrugineus Cbfe23,21
+RiPPs,CP022098.1.region048,RiPP-like,FALSE,CP022098.1.region048,,C.  fuscus DSM 52655,21
+PKS-NRP_Hybrids,CP022098.1.region030,T1PKS.prodigiosin.NRPS,FALSE,CP022098.1.region030,,C.  fuscus DSM 52655,42
+PKS-NRP_Hybrids,ANAH02000065.1.region001,T1PKS.NRPS,FALSE,ANAH02000065.1.region001,,C.  fuscus DSM 2262,42
+RiPPs,ANAH02000014.1.region001,lanthipeptide-class-ii.LAP,FALSE,ANAH02000014.1.region001,,C.  fuscus DSM 2262,22
+RiPPs,CP043492.1.region031,lanthipeptide-class-iv,FALSE,CP043492.1.region031,,C.  fuscus Cbf8,17
+PKS-NRP_Hybrids,CP022098.1.region034,NRPS.T1PKS,FALSE,CP022098.1.region034,,C.  fuscus DSM 52655,41
+PKS-NRP_Hybrids,ANAH02000064.1.region001,NRPS.T1PKS,FALSE,ANAH02000064.1.region001,,C.  fuscus DSM 2262,41
+PKSother,CP022098.1.region049,T3PKS,FALSE,CP022098.1.region049,,C.  fuscus DSM 52655,12
+Terpene,CP022098.1.region005,terpene,FALSE,CP022098.1.region005,,C.  fuscus DSM 52655,15
+PKS-NRP_Hybrids,CP022098.1.region029,NRPS.NRPS-like.T1PKS,FALSE,CP022098.1.region029,,C.  fuscus DSM 52655,23
+PKS-NRP_Hybrids,ANAH02000065.1.region002,T1PKS.NRPS-like.NRPS,FALSE,ANAH02000065.1.region002,,C.  fuscus DSM 2262,23
+RiPPs,MPIN01000026.1.region001,thioamitides,FALSE,MPIN01000026.1.region001,,C.  ferrugineus Cbfe23,52
+Terpene,CP043491.1.region005,terpene,FALSE,CP043491.1.region005,,C.  fuscus Cbf10,15
+Terpene,MPIN01000008.1.region002,terpene,FALSE,MPIN01000008.1.region002,,C.  ferrugineus Cbfe23,13
+Terpene,CP043492.1.region007,terpene,FALSE,CP043492.1.region007,,C.  fuscus Cbf8,13
+PKSother,CP043492.1.region028,PKS-like,FALSE,CP043492.1.region028,,C.  fuscus Cbf8,33
+PKSother,CP043491.1.region023,PKS-like,FALSE,CP043491.1.region023,,C.  fuscus Cbf10,33
+Terpene,MPIN01000003.1.region001,terpene,FALSE,MPIN01000003.1.region001,,C.  ferrugineus Cbfe23,27
+PKSother,BGC0002385,transAT-PKS.PKS-like,FALSE,BGC0002385,,MIBiG,4
+RiPPs,CP043492.1.region012,microviridin.lanthipeptide-class-i,FALSE,CP043492.1.region012,,C.  fuscus Cbf8,26
+Terpene,ANAH02000072.1.region001,terpene,FALSE,ANAH02000072.1.region001,,C.  fuscus DSM 2262,13
+PKS-NRP_Hybrids,CP022098.1.region036,T1PKS.NRPS,FALSE,CP022098.1.region036,,C.  fuscus DSM 52655,30
+RiPPs,CP043491.1.region013,thioamitides,FALSE,CP043491.1.region013,,C.  fuscus Cbf10,25
+RiPPs,ANAH02000024.1.region002,thioamitides,FALSE,ANAH02000024.1.region002,,C.  fuscus DSM 2262,25
+PKSI,MPIN01000019.1.region001,T1PKS,FALSE,MPIN01000019.1.region001,,C.  ferrugineus Cbfe23,11
+PKS-NRP_Hybrids,MPIN01000009.1.region001,T1PKS.NRPS-like.NRPS,FALSE,MPIN01000009.1.region001,,C.  ferrugineus Cbfe23,23
+PKS-NRP_Hybrids,CP043491.1.region024,NRPS.NRPS-like.T1PKS,FALSE,CP043491.1.region024,,C.  fuscus Cbf10,23
+NRPS,MPIN01000006.1.region001,NRPS,FALSE,MPIN01000006.1.region001,,C.  ferrugineus Cbfe23,31
+PKS-NRP_Hybrids,BGC0001737,NRPS.T1PKS,FALSE,BGC0001737,,MIBiG,30
+Terpene,MPIN01000011.1.region001,terpene,FALSE,MPIN01000011.1.region001,,C.  ferrugineus Cbfe23,15
+Others,CP043492.1.region033,PKS-like.transAT-PKS.microviridin,FALSE,CP043492.1.region033,,C.  fuscus Cbf8,4
+Others,CP043492.1.region020,indole,FALSE,CP043492.1.region020,,C.  fuscus Cbf8,40
+Others,ANAH02000005.1.region001,indole,FALSE,ANAH02000005.1.region001,,C.  fuscus DSM 2262,40
+Terpene,MPIN01000005.1.region002,terpene,FALSE,MPIN01000005.1.region002,,C.  ferrugineus Cbfe23,19
+Terpene,CP043491.1.region018,terpene,FALSE,CP043491.1.region018,,C.  fuscus Cbf10,19
+PKS-NRP_Hybrids,CP043492.1.region040,T1PKS.NRPS,FALSE,CP043492.1.region040,,C.  fuscus Cbf8,10
+RiPPs,CP043491.1.region004,lanthipeptide-class-ii.LAP,FALSE,CP043491.1.region004,,C.  fuscus Cbf10,22
+RiPPs,CP022098.1.region004,lanthipeptide-class-ii.LAP,FALSE,CP022098.1.region004,,C.  fuscus DSM 52655,22
+RiPPs,MPIN01000010.1.region001,LAP,FALSE,MPIN01000010.1.region001,,C.  ferrugineus Cbfe23,39
+RiPPs,CP043492.1.region046,LAP,FALSE,CP043492.1.region046,,C.  fuscus Cbf8,39
+RiPPs,MPIN01000001.1.region001,RiPP-like,FALSE,MPIN01000001.1.region001,,C.  ferrugineus Cbfe23,28
+PKS-NRP_Hybrids,ANAH02000073.1.region001,NRPS.T1PKS,FALSE,ANAH02000073.1.region001,,C.  fuscus DSM 2262,32
+Terpene,CP043491.1.region001,terpene,FALSE,CP043491.1.region001,,C.  fuscus Cbf10,16
+RiPPs,ANAH02000008.1.region001,RiPP-like,FALSE,ANAH02000008.1.region001,,C.  fuscus DSM 2262,9
+PKSother,CP043492.1.region044,T3PKS,FALSE,CP043492.1.region044,,C.  fuscus Cbf8,12
+NRPS,CP043492.1.region025,NRPS,FALSE,CP043492.1.region025,,C.  fuscus Cbf8,38
+NRPS,CP043491.1.region019,NRPS,FALSE,CP043491.1.region019,,C.  fuscus Cbf10,38
+RiPPs,MPIN01000015.1.region001,lanthipeptide-class-ii.LAP,FALSE,MPIN01000015.1.region001,,C.  ferrugineus Cbfe23,22
+RiPPs,CP043492.1.region004,lanthipeptide-class-ii.LAP,FALSE,CP043492.1.region004,,C.  fuscus Cbf8,22
+PKS-NRP_Hybrids,BGC0001394,NRPS.T1PKS,FALSE,BGC0001394,,MIBiG,30
+PKS-NRP_Hybrids,BGC0001022,NRPS.T1PKS,FALSE,BGC0001022,,MIBiG,30
+Others,CP022098.1.region040,NRP-metallophore.NRPS,FALSE,CP022098.1.region040,,C.  fuscus DSM 52655,1
+Terpene,CP043491.1.region003,terpene,FALSE,CP043491.1.region003,,C.  fuscus Cbf10,14
+RiPPs,CP043492.1.region042,RiPP-like,FALSE,CP043492.1.region042,,C.  fuscus Cbf8,18
+PKS-NRP_Hybrids,MPIN01000011.1.region002,T1PKS.NRPS,FALSE,MPIN01000011.1.region002,,C.  ferrugineus Cbfe23,10
+PKS-NRP_Hybrids,CP043491.1.region035,T1PKS.NRPS,FALSE,CP043491.1.region035,,C.  fuscus Cbf10,10
+RiPPs,CP043492.1.region043,RiPP-like,FALSE,CP043492.1.region043,,C.  fuscus Cbf8,21
+RiPPs,ANAH02000011.1.region001,RiPP-like,FALSE,ANAH02000011.1.region001,,C.  fuscus DSM 2262,21
+PKS-NRP_Hybrids,CP022098.1.region035,NRPS.T1PKS,FALSE,CP022098.1.region035,,C.  fuscus DSM 52655,32
+Others,BGC0000986,NRPS.RiPP-like.T1PKS,FALSE,BGC0000986,,MIBiG,32
+RiPPs,CP043491.1.region030,RiPP-like,FALSE,CP043491.1.region030,,C.  fuscus Cbf10,6
+NRPS,BGC0000871,NRPS-like,FALSE,BGC0000871,,MIBiG,2
+Others,ANAH02000020.1.region001,NRP-metallophore.NRPS,FALSE,ANAH02000020.1.region001,,C.  fuscus DSM 2262,1
+PKS-NRP_Hybrids,CP043492.1.region032,NRPS.T1PKS,FALSE,CP043492.1.region032,,C.  fuscus Cbf8,17
+Others,CP043491.1.region025,NRPS.lanthipeptide-class-iv.T1PKS,FALSE,CP043491.1.region025,,C.  fuscus Cbf10,17
+RiPPs,ANAH02000064.1.region002,microviridin,FALSE,ANAH02000064.1.region002,,C.  fuscus DSM 2262,4
+Terpene,MPIN01000002.1.region005,terpene,FALSE,MPIN01000002.1.region005,,C.  ferrugineus Cbfe23,20
+Terpene,CP022098.1.region050,terpene,FALSE,CP022098.1.region050,,C.  fuscus DSM 52655,20
+Terpene,CP043492.1.region019,terpene,FALSE,CP043492.1.region019,,C.  fuscus Cbf8,37
+Terpene,CP022098.1.region018,terpene,FALSE,CP022098.1.region018,,C.  fuscus DSM 52655,37
+Terpene,CP022098.1.region003,terpene,FALSE,CP022098.1.region003,,C.  fuscus DSM 52655,14
+Terpene,ANAH02000015.1.region001,terpene,FALSE,ANAH02000015.1.region001,,C.  fuscus DSM 2262,14
+Terpene,CP022098.1.region020,terpene,FALSE,CP022098.1.region020,,C.  fuscus DSM 52655,27
+RiPPs,CP022098.1.region021,RiPP-like,FALSE,CP022098.1.region021,,C.  fuscus DSM 52655,9
+Terpene,ANAH02000018.1.region001,terpene,FALSE,ANAH02000018.1.region001,,C.  fuscus DSM 2262,19
+Others,ANAH02000009.1.region001,NRPS-like.microviridin.lanthipeptide-class-i,FALSE,ANAH02000009.1.region001,,C.  fuscus DSM 2262,2
+RiPPs,CP043491.1.region010,microviridin.lanthipeptide-class-i,FALSE,CP043491.1.region010,,C.  fuscus Cbf10,26
+Terpene,ANAH02000004.1.region001,terpene,FALSE,ANAH02000004.1.region001,,C.  fuscus DSM 2262,16
+RiPPs,CP043492.1.region027,RiPP-like,FALSE,CP043492.1.region027,,C.  fuscus Cbf8,29
+RiPPs,CP022098.1.region025,RiPP-like,FALSE,CP022098.1.region025,,C.  fuscus DSM 52655,29
+RiPPs,ANAH02000066.1.region001,RiPP-like,FALSE,ANAH02000066.1.region001,,C.  fuscus DSM 2262,29
+RiPPs,CP043492.1.region021,RiPP-like,FALSE,CP043492.1.region021,,C.  fuscus Cbf8,28
+RiPPs,ANAH02000001.1.region003,RiPP-like,FALSE,ANAH02000001.1.region003,,C.  fuscus DSM 2262,28
+RiPPs,CP043491.1.region038,RiPP-like,FALSE,CP043491.1.region038,,C.  fuscus Cbf10,18
+RiPPs,MPIN01000009.1.region003,microviridin,FALSE,MPIN01000009.1.region003,,C.  ferrugineus Cbfe23,4
+RiPPs,CP043492.1.region018,RiPP-like.proteusin,FALSE,CP043492.1.region018,,C.  fuscus Cbf8,36
+RiPPs,CP022098.1.region017,RiPP-like.proteusin,FALSE,CP022098.1.region017,,C.  fuscus DSM 52655,36
+Terpene,CP043491.1.region041,terpene,FALSE,CP043491.1.region041,,C.  fuscus Cbf10,20
+Terpene,ANAH02000010.1.region001,terpene,FALSE,ANAH02000010.1.region001,,C.  fuscus DSM 2262,20
+NRPS,BGC0002492,NRPS,FALSE,BGC0002492,,MIBiG,1
+Terpene,CP043492.1.region001,terpene,FALSE,CP043492.1.region001,,C.  fuscus Cbf8,16
+Terpene,CP022098.1.region001,terpene,FALSE,CP022098.1.region001,,C.  fuscus DSM 52655,16
+Terpene,CP043492.1.region024,terpene,FALSE,CP043492.1.region024,,C.  fuscus Cbf8,19
+Terpene,CP022098.1.region022,terpene,FALSE,CP022098.1.region022,,C.  fuscus DSM 52655,19
+RiPPs,MPIN01000008.1.region001,redox-cofactor,FALSE,MPIN01000008.1.region001,,C.  ferrugineus Cbfe23,51
+Terpene,CP043492.1.region022,terpene,FALSE,CP043492.1.region022,,C.  fuscus Cbf8,27
+Terpene,ANAH02000030.1.region001,terpene,FALSE,ANAH02000030.1.region001,,C.  fuscus DSM 2262,27
+NRPS,CP043491.1.region027,NRPS,FALSE,CP043491.1.region027,,C.  fuscus Cbf10,31
+NRPS,ANAH02000071.1.region002,NRPS,FALSE,ANAH02000071.1.region002,,C.  fuscus DSM 2262,31
+PKSI,ANAH02000001.1.region001,T1PKS,FALSE,ANAH02000001.1.region001,,C.  fuscus DSM 2262,11
+RiPPs,MPIN01000004.1.region001,RiPP-like,FALSE,MPIN01000004.1.region001,,C.  ferrugineus Cbfe23,18
+RiPPs,CP022098.1.region047,RiPP-like,FALSE,CP022098.1.region047,,C.  fuscus DSM 52655,18
+RiPPs,ANAH02000011.1.region002,RiPP-like,FALSE,ANAH02000011.1.region002,,C.  fuscus DSM 2262,18
+RiPPs,MPIN01000009.1.region002,lanthipeptide-class-iv,FALSE,MPIN01000009.1.region002,,C.  ferrugineus Cbfe23,17
+RiPPs,CP022098.1.region033,lanthipeptide-class-iv,FALSE,CP022098.1.region033,,C.  fuscus DSM 52655,17
+Others,CP022098.1.region042,T3PKS.amglyccycl,FALSE,CP022098.1.region042,,C.  fuscus DSM 52655,35
+Others,ANAH02000017.1.region002,T3PKS.amglyccycl,FALSE,ANAH02000017.1.region002,,C.  fuscus DSM 2262,35
+RiPPs,CP043491.1.region026,microviridin,FALSE,CP043491.1.region026,,C.  fuscus Cbf10,4
+RiPPs,CP022098.1.region024,microviridin,FALSE,CP022098.1.region024,,C.  fuscus DSM 52655,4
+RiPPs,MPIN01000001.1.region004,RiPP-like,FALSE,MPIN01000001.1.region004,,C.  ferrugineus Cbfe23,34
+Terpene,CP022098.1.region015,terpene,FALSE,CP022098.1.region015,,C.  fuscus DSM 52655,3
+Terpene,MPIN01000002.1.region004,terpene,FALSE,MPIN01000002.1.region004,,C.  ferrugineus Cbfe23,16
+Terpene,CP043492.1.region016,terpene,FALSE,CP043492.1.region016,,C.  fuscus Cbf8,3
+Terpene,CP043491.1.region014,terpene,FALSE,CP043491.1.region014,,C.  fuscus Cbf10,3
+PKSI,CP043491.1.region029,T1PKS,FALSE,CP043491.1.region029,,C.  fuscus Cbf10,8
+RiPPs,CP043492.1.region023,RiPP-like,FALSE,CP043492.1.region023,,C.  fuscus Cbf8,9
+RiPPs,CP043491.1.region017,RiPP-like,FALSE,CP043491.1.region017,,C.  fuscus Cbf10,9
+NRPS,MPIN01000007.1.region003,NRPS-like,FALSE,MPIN01000007.1.region003,,C.  ferrugineus Cbfe23,2
+PKSI,CP043492.1.region011,T1PKS,FALSE,CP043492.1.region011,,C.  fuscus Cbf8,11
+Terpene,CP043492.1.region005,terpene,FALSE,CP043492.1.region005,,C.  fuscus Cbf8,15
+Terpene,ANAH02000014.1.region002,terpene,FALSE,ANAH02000014.1.region002,,C.  fuscus DSM 2262,15
+Terpene,MPIN01000012.1.region002,terpene,FALSE,MPIN01000012.1.region002,,C.  ferrugineus Cbfe23,14
+Terpene,CP043492.1.region003,terpene,FALSE,CP043492.1.region003,,C.  fuscus Cbf8,14
+RiPPs,MPIN01000007.1.region002,microviridin.lanthipeptide-class-i,FALSE,MPIN01000007.1.region002,,C.  ferrugineus Cbfe23,26
+RiPPs,CP022098.1.region011,microviridin.lanthipeptide-class-i,FALSE,CP022098.1.region011,,C.  fuscus DSM 52655,26
+Terpene,CP043491.1.region006,terpene,FALSE,CP043491.1.region006,,C.  fuscus Cbf10,13
+Terpene,CP022098.1.region006,terpene,FALSE,CP022098.1.region006,,C.  fuscus DSM 52655,13
+RiPPs,MPIN01000006.1.region003,RiPP-like,FALSE,MPIN01000006.1.region003,,C.  ferrugineus Cbfe23,6
+RiPPs,CP043492.1.region036,RiPP-like,FALSE,CP043492.1.region036,,C.  fuscus Cbf8,6
+PKSother,MPIN01000001.1.region003,T3PKS,FALSE,MPIN01000001.1.region003,,C.  ferrugineus Cbfe23,12
+PKSother,CP043491.1.region040,T3PKS,FALSE,CP043491.1.region040,,C.  fuscus Cbf10,12
+PKSI,CP043491.1.region008,T1PKS,FALSE,CP043491.1.region008,,C.  fuscus Cbf10,11
+PKSI,CP022098.1.region009,T1PKS,FALSE,CP022098.1.region009,,C.  fuscus DSM 52655,11
+NRPS,CP043491.1.region011,NRPS-like,FALSE,CP043491.1.region011,,C.  fuscus Cbf10,2
+PKS-NRP_Hybrids,CP022098.1.region043,T1PKS.NRPS,FALSE,CP022098.1.region043,,C.  fuscus DSM 52655,10
+PKS-NRP_Hybrids,ANAH02000017.1.region001,T1PKS.NRPS,FALSE,ANAH02000017.1.region001,,C.  fuscus DSM 2262,10
+Others,CP043492.1.region039,NAPAA.T3PKS.NRPS-like.amglyccycl,FALSE,CP043492.1.region039,,C.  fuscus Cbf8,5
+Saccharides,CP043491.1.region034,amglyccycl,FALSE,CP043491.1.region034,,C.  fuscus Cbf10,5
+RiPPs,MPIN01000018.1.region001,RiPP-like,FALSE,MPIN01000018.1.region001,,C.  ferrugineus Cbfe23,9
+PKSI,CP043492.1.region035,T1PKS,FALSE,CP043492.1.region035,,C.  fuscus Cbf8,8
+PKSother,MPIN01000006.1.region002,PKS-like.T1PKS,FALSE,MPIN01000006.1.region002,,C.  ferrugineus Cbfe23,8
+PKSother,CP022098.1.region026,PKS-like,FALSE,CP022098.1.region026,,C.  fuscus DSM 52655,50
+RiPPs,CP043492.1.region002,RiPP-like,FALSE,CP043492.1.region002,,C.  fuscus Cbf8,7
+Others,CP043492.1.region038,NRP-metallophore.NRPS,FALSE,CP043492.1.region038,,C.  fuscus Cbf8,1
+Terpene,BGC0000661,terpene,FALSE,BGC0000661,,MIBiG,3
+RiPPs,CP043492.1.region015,thioamitides,FALSE,CP043492.1.region015,,C.  fuscus Cbf8,25
+RiPPs,CP022098.1.region013,thioamitides,FALSE,CP022098.1.region013,,C.  fuscus DSM 52655,25
+Terpene,MPIN01000001.1.region005,terpene,FALSE,MPIN01000001.1.region005,,C.  ferrugineus Cbfe23,3
+Terpene,ANAH02000024.1.region001,terpene,FALSE,ANAH02000024.1.region001,,C.  fuscus DSM 2262,3
+PKS-NRP_Hybrids,CP022098.1.region037,NRPS.T1PKS,FALSE,CP022098.1.region037,,C.  fuscus DSM 52655,8
+PKSI,ANAH02000071.1.region001,T1PKS,FALSE,ANAH02000071.1.region001,,C.  fuscus DSM 2262,8
+Others,MPIN01000002.1.region003,NRP-metallophore.NRPS,FALSE,MPIN01000002.1.region003,,C.  ferrugineus Cbfe23,1
+Others,CP043491.1.region032,T3PKS.NRP-metallophore.NRPS,FALSE,CP043491.1.region032,,C.  fuscus Cbf10,1
+RiPPs,ANAH02000004.1.region002,RiPP-like,FALSE,ANAH02000004.1.region002,,C.  fuscus DSM 2262,7
+NRPS,CP043492.1.region013,NRPS-like,FALSE,CP043492.1.region013,,C.  fuscus Cbf8,2
+NRPS,CP022098.1.region012,NRPS-like,FALSE,CP022098.1.region012,,C.  fuscus DSM 52655,2
+RiPPs,CP022098.1.region002,RiPP-like,FALSE,CP022098.1.region002,,C.  fuscus DSM 52655,7
+RiPPs,MPIN01000017.1.region001,RiPP-like,FALSE,MPIN01000017.1.region001,,C.  ferrugineus Cbfe23,7
+RiPPs,CP043491.1.region002,RiPP-like,FALSE,CP043491.1.region002,,C.  fuscus Cbf10,7
+RiPPs,CP022098.1.region045,microviridin,FALSE,CP022098.1.region045,,C.  fuscus DSM 52655,24
+RiPPs,ANAH02000001.1.region002,microviridin,FALSE,ANAH02000001.1.region002,,C.  fuscus DSM 2262,24
+RiPPs,CP022098.1.region038,RiPP-like,FALSE,CP022098.1.region038,,C.  fuscus DSM 52655,6
+RiPPs,ANAH02000012.1.region001,RiPP-like,FALSE,ANAH02000012.1.region001,,C.  fuscus DSM 2262,6
+NRPS,BGC0002324,NRPS,FALSE,BGC0002324,,MIBiG,1
+NRPS,BGC0001345,NRPS,FALSE,BGC0001345,,MIBiG,1
+NRPS,CP043491.1.region033,NRPS-like,FALSE,CP043491.1.region033,,C.  fuscus Cbf10,5
+NRPS,ANAH02000017.1.region003,NRPS-like,FALSE,ANAH02000017.1.region003,,C.  fuscus DSM 2262,5

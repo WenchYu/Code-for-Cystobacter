@@ -1,0 +1,59 @@
+,npaid,compound_name,activity,Limmunomod.,HTCL,Antiproliferative,AM,inhib.,cytotox.,AI,IA
+0,NPA001487,Vioprolide A,AM/cytotox./AI/HTCL/Limmunomod./Antiproliferative,1,1,1,1,0,1,1,0
+1,NPA007309,Archazolid F,inhib./Antiproliferative,0,0,1,0,1,0,0,0
+2,NPA011782,Archazolid E,inhib./Antiproliferative,0,0,1,0,1,0,0,0
+3,NPA015029,Archazolid C,inhib./Antiproliferative,0,0,1,0,1,0,0,0
+4,NPA004885,Archazolid A,inhib./cytotox.,0,0,0,0,1,1,0,0
+5,NPA015628,Archazolid B,cytotox./inhib./Antiproliferative,0,0,1,0,1,1,0,0
+6,NPA007740,Cyrmenin B1,AM,0,0,0,1,0,0,0,0
+7,NPA017498,Cyrmenin B2,AM,0,0,0,1,0,0,0,0
+8,NPA019113,Cyrmenin A,AM,0,0,0,1,0,0,0,0
+9,NPA001660,Cystobactamid 507,AM,0,0,0,1,0,0,0,0
+10,NPA009873,Cystobactamid 919-2,AM,0,0,0,1,0,0,0,0
+11,NPA016048,Cystobactamid 919-1,AM,0,0,0,1,0,0,0,0
+12,NPA011531,Cystochromone C,IA,0,0,0,0,0,0,0,1
+13,NPA013606,Cystochromone B,IA,0,0,0,0,0,0,0,1
+14,NPA014672,Cystochromone E,IA,0,0,0,0,0,0,0,1
+15,NPA017042,Cystochromone F,IA,0,0,0,0,0,0,0,1
+16,NPA017461,Cystochromone D,IA,0,0,0,0,0,0,0,1
+17,NPA019041,Cystochromone A,AM/AM/HTCL,0,1,0,2,0,0,0,0
+18,NPA019874,Cystochromone G,IA,0,0,0,0,0,0,0,1
+19,NPA019695,Cystodienoic acid,cytotox.,0,0,0,0,0,1,0,0
+20,NPA005786,Cystomanamide C,IA,0,0,0,0,0,0,0,1
+21,NPA006150,Cystomanamide D,IA,0,0,0,0,0,0,0,1
+22,NPA007209,Cystomanamide A,AM,0,0,0,1,0,0,0,0
+23,NPA009617,Cystomanamide B,AM,0,0,0,1,0,0,0,0
+24,NPA006290,Cystothiazole B,AM,0,0,0,1,0,0,0,0
+25,NPA007000,Cystothiazole A,HTCL/AM,0,1,0,1,0,0,0,0
+26,NPA009867,Cystothiazole D,AM,0,0,0,1,0,0,0,0
+27,NPA011012,Cystothiazole F,AM,0,0,0,1,0,0,0,0
+28,NPA011283,Cystothiazole E,AM,0,0,0,1,0,0,0,0
+29,NPA012665,Cystothiazole C,AM,0,0,0,1,0,0,0,0
+30,NPA000507,N-hydroxymethyl pretubulysin,cytotox.,0,0,0,0,0,1,0,0
+31,NPA003922,N-desmethyl 12-keto pretubulysin D,cytotox.,0,0,0,0,0,1,0,0
+32,NPA004663,N-desmethylpretubulysin D,cytotox.,0,0,0,0,0,1,0,0
+33,NPA005026,Desacetyltubulysin D,cytotox.,0,0,0,0,0,1,0,0
+34,NPA008321,Desacetyltubulysin E,cytotox.,0,0,0,0,0,1,0,0
+35,NPA008516,N-desmethyl 11-acetoxy pretubulysin D,cytotox./Antiproliferative/inhib.,0,0,1,0,1,1,0,0
+36,NPA010843,11-hydroxy-N-desmethyl 12-keto pretubulysin D,cytotox.,0,0,0,0,0,1,0,0
+37,NPA011837,11-Acetoxy-N-hydroxymethyl-pretubulysin,cytotox.,0,0,0,0,0,1,0,0
+38,NPA013303,Pretubulysin A,cytotox.,0,0,0,0,0,1,0,0
+39,NPA015994,N-hydroxymethyl12-keto pretubulysin D,cytotox.,0,0,0,0,0,1,0,0
+40,NPA018886,N-desmethyl 12-hydroxy pretubulysinD,cytotox.,0,0,0,0,0,1,0,0
+41,NPA020209,Macyranone A,HTCL,0,1,0,0,0,0,0,0
+42,NPA020210,Macyranone B,HTCL,0,1,0,0,0,0,0,0
+43,NPA020211,Macyranone C,IA,0,0,0,0,0,0,0,1
+44,NPA020212,Macyranone D,HTCL,0,1,0,0,0,0,0,0
+45,NPA020213,Macyranone E,HTCL,0,1,0,0,0,0,0,0
+46,NPA020214,Macyranone F,IA,0,0,0,0,0,0,0,1
+47,NPA001334,"(6E,10Z)-2'-O-methylmyxalamide D",AM,0,0,0,1,0,0,0,0
+48,NPA013204,(6E)-2′-O-methylmyxalamide D,AM,0,0,0,1,0,0,0,0
+49,NPA013562,2'-O-methylmyxalamide D,AM,0,0,0,1,0,0,0,0
+50,NPA003182,N-[2-(4-hydroxyphenyl)-2-oxoethyl]-3-methylbutanamide,IA,0,0,0,0,0,0,0,1
+51,NPA006937,N-[2-(4-hydroxyphenyl)-2-oxoethyl]acetamide,IA,0,0,0,0,0,0,0,1
+52,NPA011559,N-[(E)-2-(4-hydroxyphenyl)ethenyl]-3-methylbutanamide,AM,0,0,0,1,0,0,0,0
+53,NPA014240,N-[2-(4-hydroxyphenyl)-2-oxoethyl]-4-methylpentanamide,IA,0,0,0,0,0,0,0,1
+54,NPA015853,N-[2-(4-hydroxyphenyl)-2-oxoethyl]hexanamide,IA,0,0,0,0,0,0,0,1
+55,NPA017519,N-[2-(4-hydroxyphenyl)-2-oxoethyl]butanamide,IA,0,0,0,0,0,0,0,1
+56,NPA014832,Roimatacene,AM,0,0,0,1,0,0,0,0
+57,NPA006449,Archazolid D,inhib.,0,0,0,0,1,0,0,0

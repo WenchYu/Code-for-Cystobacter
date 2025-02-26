@@ -1,0 +1,1636 @@
+,locus_tag,description
+0,ctg1_48,Protein kinase domain
+1,ctg1_48,Tetratricopeptide repeat
+2,ctg1_48,Tetratricopeptide repeat
+3,ctg1_49,Periplasmic sensor domain found in signal transduction proteins
+4,ctg1_49,GAF domain
+5,ctg1_49,His Kinase A (phospho-acceptor) domain
+6,ctg1_49,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+7,ctg1_50,Periplasmic binding protein domain
+8,ctg1_51,Papain-like cysteine protease AvrRpt2
+9,ctg1_52,Protein tyrosine and serine/threonine kinase
+10,ctg1_54,Squalene/phytoene synthase
+11,ctg1_55,Protein of unknown function (DUF938)
+12,ctg1_56,Protein tyrosine and serine/threonine kinase
+13,ctg1_58,FG-GAP-like repeat
+14,ctg1_58,"Galactose oxidase, central domain"
+15,ctg1_58,Kelch motif
+16,ctg1_58,"Galactose oxidase, central domain"
+17,ctg1_58,Kelch motif
+18,ctg1_71,Alcohol dehydrogenase GroES-like domain
+19,ctg1_71,Glucose dehydrogenase C-terminus
+20,ctg1_72,Putative cyclase
+21,ctg1_73,"Trehalase-like, N-terminal"
+22,ctg1_73,Glycosyl hydrolases family 15
+23,ctg1_75,Protein of unknown function (DUF692)
+24,ctg1_77,"Bacterial regulatory proteins, tetR family"
+25,ctg1_77,"AefR-like transcriptional repressor, C-terminal domain"
+26,ctg1_78,DUF218 domain
+27,ctg1_79,"Phosphatidate phosphatase APP1, catalytic domain"
+28,ctg1_522,Thioesterase superfamily
+29,ctg1_524,2-hydroxy-palmitic acid dioxygenase Mpo1-like
+30,ctg1_525,RsbT co-antagonist protein rsbRD N-terminal domain
+31,ctg1_525,GAF domain
+32,ctg1_525,PAS fold
+33,ctg1_525,His Kinase A (phospho-acceptor) domain
+34,ctg1_525,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+35,ctg1_526,Ornithine cyclodeaminase/mu-crystallin family
+36,ctg1_528,Protein of unknown function (DUF2892)
+37,ctg1_530,NmrA-like family
+38,ctg1_532,"Terpene synthase family 2, C-terminal metal binding"
+39,ctg1_533,"Cytochrome C oxidase, cbb3-type, subunit III"
+40,ctg1_536,A nuclease family of the HNH/ENDO VII superfamily with conserved AHH
+41,ctg1_539,Putative FMN-binding domain
+42,ctg1_541,Putative DNA-binding domain
+43,ctg1_541,Putative ATP-dependent DNA helicase recG C-terminal
+44,ctg1_830,KaiC
+45,ctg1_830,KaiC
+46,ctg1_831,Response regulator receiver domain
+47,ctg1_831,His Kinase A (phospho-acceptor) domain
+48,ctg1_831,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+49,ctg1_832,Protein tyrosine and serine/threonine kinase
+50,ctg1_832,PEGA domain
+51,ctg1_833,ABC-2 type transporter
+52,ctg1_834,ABC transporter
+53,ctg1_835,ABC transporter
+54,ctg1_835,ABC transporter
+55,ctg1_835,ABC transporter
+56,ctg1_836,Amidohydrolase
+57,ctg1_838,"YcaO cyclodehydratase, ATP-ad Mg2+-binding"
+58,ctg1_839,Nitroreductase family
+59,ctg1_840,Protein tyrosine and serine/threonine kinase
+60,ctg1_840,AAA ATPase domain
+61,ctg1_841,Domain of unknown function (DUF4135)
+62,ctg1_841,Lanthionine synthetase C-like protein
+63,ctg1_845,ATP-grasp domain
+64,ctg1_846,Putative esterase
+65,ctg1_847,SNARE associated Golgi protein
+66,ctg1_903,Endonuclease/Exonuclease/phosphatase family
+67,ctg1_904,ATPase family associated with various cellular activities (AAA)
+68,ctg1_905,VWA domain containing CoxE-like protein
+69,ctg1_910,Protein of unknown function (DUF3396)
+70,ctg1_911,Cytochrome P450
+71,ctg1_912,"Terpene synthase family 2, C-terminal metal binding"
+72,ctg1_913,Beta barrel Pore-forming domain
+73,ctg1_915,"Bacteriocin-protection, YdeI or OmpD-Associated"
+74,ctg1_917,Family of unknown function (DUF6068)
+75,ctg1_920,Rhomboid family
+76,ctg1_1177,Putative metal-binding motif
+77,ctg1_1177,Putative metal-binding motif
+78,ctg1_1178,Protein kinase domain
+79,ctg1_1180,FHA domain
+80,ctg1_1181,Calcineurin-like phosphoesterase
+81,ctg1_1182,NAD dependent epimerase/dehydratase family
+82,ctg1_1182,Domain of unknown function (DUF1731)
+83,ctg1_1185,Flavin containing amine oxidoreductase
+84,ctg1_1186,Squalene/phytoene synthase
+85,ctg1_1187,Flavin containing amine oxidoreductase
+86,ctg1_1189,Glycosyl transferase family 21
+87,ctg1_1191,Lycopene cyclase
+88,ctg1_1192,Acyltransferase
+89,ctg1_1193,MerR HTH family regulatory protein
+90,ctg1_1193,B12 binding domain
+91,ctg1_1193,B12 binding domain
+92,ctg1_1194,Amidohydrolase family
+93,ctg1_1195,SnoaL-like polyketide cyclase
+94,ctg1_1196,Domain of unknown function (DUF4265)
+95,ctg1_1197,HNH endonuclease
+96,ctg1_1240,MaoC like domain
+97,ctg1_1241,Aldo/keto reductase family
+98,ctg1_1244,Domain of unknown function (DUF4082)
+99,ctg1_1245,FAD binding domain
+100,ctg1_1245,"Cytokinin dehydrogenase 1, FAD and cytokinin binding"
+101,ctg1_1246,Glycosyltransferase family 28 C-terminal domain
+102,ctg1_1247,Domain of unknown function (DUF4135)
+103,ctg1_1247,Lanthionine synthetase C-like protein
+104,ctg1_1250,Peptidase C39 family
+105,ctg1_1250,ABC transporter transmembrane region
+106,ctg1_1250,ABC transporter
+107,ctg1_1252,"Prolyl oligopeptidase, N-terminal beta-propeller domain"
+108,ctg1_1252,Prolyl oligopeptidase family
+109,ctg1_1254,Sigma-70 region 2
+110,ctg1_1254,"Sigma-70, region 4"
+111,ctg1_1258,"6-phosphogluconate dehydrogenase, C-terminal domain"
+112,ctg1_1550,Protein of unknown function (DUF2917)
+113,ctg1_1551,Rhodopirellula transposase DDE domain
+114,ctg1_1552,Rhodopirellula transposase DDE domain
+115,ctg1_1553,Tetratricopeptide repeat
+116,ctg1_1553,Tetratricopeptide repeat
+117,ctg1_1553,Tetratricopeptide repeat
+118,ctg1_1553,Tetratricopeptide repeat
+119,ctg1_1553,Tetratricopeptide repeat
+120,ctg1_1553,Tetratricopeptide repeat
+121,ctg1_1553,Tetratricopeptide repeat
+122,ctg1_1553,CHAT domain
+123,ctg1_1554,"Galactose oxidase, central domain"
+124,ctg1_1554,"Galactose oxidase, central domain"
+125,ctg1_1557,Immunity protein 26
+126,ctg1_1558,Transposase domain (DUF772)
+127,ctg1_1558,Transposase DDE domain
+128,ctg1_1559,"Bacterial regulatory helix-turn-helix protein, lysR family"
+129,ctg1_1559,LysR substrate binding domain
+130,ctg1_1560,NADP oxidoreductase coenzyme F420-dependent
+131,ctg1_1562,SnoaL-like domain
+132,ctg1_1563,alpha/beta hydrolase fold
+133,ctg1_1564,Beta-lactamase
+134,ctg1_1567,HxlR-like helix-turn-helix
+135,ctg1_1568,Enoyl-(Acyl carrier protein) reductase
+136,ctg1_1569,Condensation domain
+137,ctg1_1570,AMP-binding enzyme
+138,ctg1_1570,AMP-binding enzyme C-terminal domain
+139,ctg1_1570,Phosphopantetheine attachment site
+140,ctg1_1570,Condensation domain
+141,ctg1_1570,Condensation domain
+142,ctg1_1570,AMP-binding enzyme
+143,ctg1_1570,AMP-binding enzyme C-terminal domain
+144,ctg1_1570,Phosphopantetheine attachment site
+145,ctg1_1570,Condensation domain
+146,ctg1_1570,AMP-binding enzyme
+147,ctg1_1570,AMP-binding enzyme C-terminal domain
+148,ctg1_1570,Phosphopantetheine attachment site
+149,ctg1_1570,Thioesterase domain
+150,ctg1_1571,AMP-binding enzyme
+151,ctg1_1573,Rhodopirellula transposase DDE domain
+152,ctg1_1574,Astacin (Peptidase family M12A)
+153,ctg1_1574,FG-GAP-like repeat
+154,ctg1_1574,FG-GAP-like repeat
+155,ctg1_1574,FG-GAP-like repeat
+156,ctg1_1577,Pentapeptide repeats (8 copies)
+157,ctg1_1828,Transglycosylase associated protein
+158,ctg1_1829,Radical SAM superfamily
+159,ctg1_1829,Biotin and Thiamin Synthesis associated domain
+160,ctg1_1830,Aminotransferase class I and II
+161,ctg1_1831,AAA domain
+162,ctg1_1833,Aminotransferase class I and II
+163,ctg1_1835,OPT oligopeptide transporter protein
+164,ctg1_1837,Enoyl-(Acyl carrier protein) reductase
+165,ctg1_1838,Methyl-accepting chemotaxis protein (MCP) signalling domain
+166,ctg1_1839,4'-phosphopantetheinyl transferase N-terminal domain
+167,ctg1_1839,4'-phosphopantetheinyl transferase superfamily
+168,ctg1_1840,"Beta-ketoacyl synthase, N-terminal domain"
+169,ctg1_1840,"Beta-ketoacyl synthase, C-terminal domain"
+170,ctg1_1840,"Beta-ketoacyl synthase, N-terminal domain"
+171,ctg1_1840,"Beta-ketoacyl synthase, C-terminal domain"
+172,ctg1_1840,Ketoacyl-synthetase C-terminal extension
+173,ctg1_1840,KR domain
+174,ctg1_1840,Polyketide synthase dehydratase
+175,ctg1_1842,"Beta-ketoacyl synthase, N-terminal domain"
+176,ctg1_1842,"Beta-ketoacyl synthase, C-terminal domain"
+177,ctg1_1842,"Beta-ketoacyl synthase, N-terminal domain"
+178,ctg1_1842,"Beta-ketoacyl synthase, C-terminal domain"
+179,ctg1_1842,Ketoacyl-synthetase C-terminal extension
+180,ctg1_1842,Acyl transferase domain
+181,ctg1_1843,"Type II secretion system (T2SS), protein G"
+182,ctg1_1844,Family of unknown function (DUF5335)
+183,ctg1_1845,Receptor family ligand binding region
+184,ctg1_1847,Phosphoenolpyruvate carboxykinase N-terminal domain
+185,ctg1_1847,Phosphoenolpyruvate carboxykinase C-terminal P-loop domain
+186,ctg1_1848,Citrate transporter
+187,ctg1_1848,TrkA-C domain
+188,ctg1_1848,Sodium:sulfate symporter transmembrane region
+189,ctg1_1849,Membrane dipeptidase (Peptidase family M19)
+190,ctg1_1849,Dickkopf N-terminal cysteine-rich region
+191,ctg1_1850,"Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain"
+192,ctg1_1850,Molybdopterin cofactor-binding domain
+193,ctg1_1850,Molybdopterin cofactor-binding domain
+194,ctg1_1851,FAD binding domain in molybdopterin dehydrogenase
+195,ctg1_1851,CO dehydrogenase flavoprotein C-terminal domain
+196,ctg1_1852,2Fe-2S iron-sulfur cluster binding domain
+197,ctg1_1852,[2Fe-2S] binding domain
+198,ctg1_1853,Major Facilitator Superfamily
+199,ctg1_1854,Glycoside hydrolase family 44
+200,ctg1_1854,PKD domain
+201,ctg1_1855,tRNA-(MS[2]IO[6]A)-hydroxylase (MiaE)
+202,ctg1_1855,tRNA-(MS[2]IO[6]A)-hydroxylase (MiaE)
+203,ctg1_1856,Histidine phosphatase superfamily (branch 1)
+204,ctg1_1857,Uncharacterized conserved protein (DUF2267)
+205,ctg1_1928,Enoyl-(Acyl carrier protein) reductase
+206,ctg1_1929,Prokaryotic N-terminal methylation motif
+207,ctg1_1929,Type IV pilin PilA
+208,ctg1_1930,Protein of unknown function (DUF692)
+209,ctg1_1934,Sodium/hydrogen exchanger family
+210,ctg1_1934,TrkA-C domain
+211,ctg1_2199,Domain of unknown function (DUF4874)
+212,ctg1_2199,Domain of unknown function (DUF4832)
+213,ctg1_2200,Phosphate-selective porin O and P
+214,ctg1_2202,BsuBI/PstI restriction endonuclease HTH domain
+215,ctg1_2202,BsuBI/PstI restriction endonuclease domain
+216,ctg1_2203,Eco57I restriction-modification methylase
+217,ctg1_2206,"Lantibiotic dehydratase, N terminus"
+218,ctg1_2206,Lantibiotic biosynthesis dehydratase C-term
+219,ctg1_2207,Lanthionine synthetase C-like protein
+220,ctg1_2209,Phosphoribulokinase / Uridine kinase family
+221,ctg1_2210,ArgJ family
+222,ctg1_2214,Carbohydrate esterase 2 N-terminal
+223,ctg1_2214,GDSL-like Lipase/Acylhydrolase family
+224,ctg1_2215,AAA domain (Cdc48 subfamily)
+225,ctg1_2215,"C-terminal, D2-small domain, of ClpB protein"
+226,ctg1_2215,PCRF domain
+227,ctg1_2216,Serine endopeptidase inhibitors
+228,ctg1_2217,Serine endopeptidase inhibitors
+229,ctg1_2218,RimK-like ATP-grasp domain
+230,ctg1_2221,ThiF family
+231,ctg1_2223,Protein of unknown function (DUF1684)
+232,ctg1_2224,Galactose mutarotase-like
+233,ctg1_2224,Glycosyl hydrolases family 31
+234,ctg1_2227,von Willebrand factor type A domain
+235,ctg1_2229,Response regulator receiver domain
+236,ctg1_2230,Response regulator receiver domain
+237,ctg1_2230,PAS fold
+238,ctg1_2230,His Kinase A (phospho-acceptor) domain
+239,ctg1_2230,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+240,ctg1_2231,Calcineurin-like phosphoesterase
+241,ctg1_2232,Sigma-70 region 2
+242,ctg1_2234,NAD(P)H-binding
+243,ctg1_2235,Thioesterase superfamily
+244,ctg1_2237,UvrD/REP helicase N-terminal domain
+245,ctg1_2237,UvrD-like helicase C-terminal domain
+246,ctg1_2238,MatE
+247,ctg1_2238,MatE
+248,ctg1_2239,Adenosine deaminase
+249,ctg1_2240,Enoyl-(Acyl carrier protein) reductase
+250,ctg1_2242,Nucleotidyl transferase
+251,ctg1_2243,FHA domain
+252,ctg1_2243,"Diguanylate cyclase, GGDEF domain"
+253,ctg1_2244,NAD dependent epimerase/dehydratase family
+254,ctg1_2245,Male sterility protein
+255,ctg1_2245,AMP-binding enzyme
+256,ctg1_2245,AMP-binding enzyme C-terminal domain
+257,ctg1_2245,Phosphopantetheine attachment site
+258,ctg1_2245,Acyltransferase
+259,ctg1_2246,Lactate racemase N-terminal domain
+260,ctg1_2247,haloacid dehalogenase-like hydrolase
+261,ctg1_2248,NAD dependent epimerase/dehydratase family
+262,ctg1_2249,SWIB/MDM2 domain
+263,ctg1_2250,"Alpha amylase, catalytic domain"
+264,ctg1_2251,Carbohydrate-binding module 48 (Isoamylase N-terminal domain)
+265,ctg1_2251,"Alpha amylase, catalytic domain"
+266,ctg1_2252,Integral membrane protein TerC family
+267,ctg1_2253,ApaG domain
+268,ctg1_2254,Ferrochelatase
+269,ctg1_2256,Telomere recombination
+270,ctg1_2256,"Threonylcarbamoyl-AMP synthase, C-terminal domain"
+271,ctg1_2257,Polyketide cyclase / dehydrase and lipid transport
+272,ctg1_2257,NAD dependent epimerase/dehydratase family
+273,ctg1_2257,Domain of unknown function (DUF1731)
+274,ctg1_2258,Tetratricopeptide repeat
+275,ctg1_2258,Tetratricopeptide repeat
+276,ctg1_2258,Tetratricopeptide repeat
+277,ctg1_2259,Glycosyl hydrolases family 2
+278,ctg1_2259,Ig-fold domain
+279,ctg1_2516,Sigma-70 region 2
+280,ctg1_2516,"Sigma-70, region 4"
+281,ctg1_2519,GDSL-like Lipase/Acylhydrolase family
+282,ctg1_2521,Putative zinc-finger
+283,ctg1_2522,Sigma-70 region 2
+284,ctg1_2522,"Sigma-70, region 4"
+285,ctg1_2525,"YcaO cyclodehydratase, ATP-ad Mg2+-binding"
+286,ctg1_2526,TfuA-like protein
+287,ctg1_2527,DNA methylase
+288,ctg1_2528,Sodium:dicarboxylate symporter family
+289,ctg1_2529,FKBP-type peptidyl-prolyl cis-trans isomerase
+290,ctg1_2530,OPT oligopeptide transporter protein
+291,ctg1_2532,Immunity protein 52
+292,ctg1_2533,Restriction endonuclease fold toxin 5
+293,ctg1_2535,Bacterial protein of unknown function (DUF839)
+294,ctg1_2535,Bacterial protein of unknown function (DUF839)
+295,ctg1_2535,WD40-like Beta Propeller Repeat
+296,ctg1_2607,Aldo/keto reductase family
+297,ctg1_2608,"Bacterial regulatory proteins, tetR family"
+298,ctg1_2608,"Tetracyclin repressor-like, C-terminal domain"
+299,ctg1_2609,Phytanoyl-CoA dioxygenase (PhyH)
+300,ctg1_2614,Glycosyl transferase family 2
+301,ctg1_2615,Prolyl oligopeptidase family
+302,ctg1_2616,Radical SAM superfamily
+303,ctg1_2616,Iron-sulfur cluster-binding domain
+304,ctg1_2617,Coenzyme PQQ synthesis protein D (PqqD)
+305,ctg1_2618,TENA/THI-4/PQQC family
+306,ctg1_2619,Beta-lactamase superfamily domain
+307,ctg1_2620,Insulinase (Peptidase family M16)
+308,ctg1_2620,Peptidase M16 inactive domain
+309,ctg1_2624,Enoyl-(Acyl carrier protein) reductase
+310,ctg1_2630,HxlR-like helix-turn-helix
+311,ctg1_2632,"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"
+312,ctg1_2632,"UDP-glucose/GDP-mannose dehydrogenase family, central domain"
+313,ctg1_2632,"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"
+314,ctg1_2633,Major Facilitator Superfamily
+315,ctg1_2634,UDP-glucoronosyl and UDP-glucosyl transferase
+316,ctg1_2635,"Bacterial regulatory proteins, tetR family"
+317,ctg1_2635,"Tetracyclin repressor-like, C-terminal domain"
+318,ctg1_2636,Cyclic nucleotide-binding domain
+319,ctg1_2636,Phage capsid-like protein
+320,ctg1_2637,Cyclic nucleotide-binding domain
+321,ctg1_2637,Phage capsid-like protein
+322,ctg1_2638,"Terpene synthase family 2, C-terminal metal binding"
+323,ctg1_2638,"Terpene synthase family 2, C-terminal metal binding"
+324,ctg1_2640,Enoyl-(Acyl carrier protein) reductase
+325,ctg1_2641,Peptidase C39 family
+326,ctg1_2641,ABC transporter transmembrane region
+327,ctg1_2641,ABC transporter
+328,ctg1_2642,HlyD family secretion protein
+329,ctg1_2643,Biotin-lipoyl like
+330,ctg1_2643,HlyD family secretion protein
+331,ctg1_2677,Protein of unknown function (DUF1254)
+332,ctg1_2677,Protein of unknown function (DUF1214)
+333,ctg1_2680,Sigma-70 region 2
+334,ctg1_2680,"Sigma-70, region 4"
+335,ctg1_2681,Negative regulator of sigma F
+336,ctg1_2682,Putative DNA-binding domain
+337,ctg1_2683,Protein of unknown function (DUF692)
+338,ctg1_2686,Protein kinase domain
+339,ctg1_2686,AAA ATPase domain
+340,ctg1_2686,GAF domain
+341,ctg1_2686,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+342,ctg1_2688,Transposase domain (DUF772)
+343,ctg1_2688,Transposase DDE domain
+344,ctg1_2691,Alcohol dehydrogenase GroES-like domain
+345,ctg1_2691,Zinc-binding dehydrogenase
+346,ctg1_2700,Cytochrome P450
+347,ctg1_2701,Condensation domain
+348,ctg1_2701,Phosphopantetheine attachment site
+349,ctg1_2702,AMP-binding enzyme
+350,ctg1_2702,AMP-binding enzyme C-terminal domain
+351,ctg1_2702,Phosphopantetheine attachment site
+352,ctg1_2702,Condensation domain
+353,ctg1_2702,AMP-binding enzyme
+354,ctg1_2702,AMP-binding enzyme C-terminal domain
+355,ctg1_2702,Phosphopantetheine attachment site
+356,ctg1_2703,Enoyl-(Acyl carrier protein) reductase
+357,ctg1_2704,"Bacterial regulatory helix-turn-helix protein, lysR family"
+358,ctg1_2704,LysR substrate binding domain
+359,ctg1_2705,Bacterial sugar transferase
+360,ctg1_2706,NUDIX domain
+361,ctg1_2707,Protein kinase domain
+362,ctg1_2707,AAA ATPase domain
+363,ctg1_2707,GAF domain
+364,ctg1_2707,PAS fold
+365,ctg1_2707,PAS fold
+366,ctg1_2707,GAF domain
+367,ctg1_2707,His Kinase A (phospho-acceptor) domain
+368,ctg1_2707,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+369,ctg1_2708,"Bacterial regulatory helix-turn-helix protein, lysR family"
+370,ctg1_2708,LysR substrate binding domain
+371,ctg1_2709,HAMP domain
+372,ctg1_2709,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+373,ctg1_2710,Transposase IS66 family
+374,ctg1_2711,Protein of unknown function (DUF2381)
+375,ctg1_2712,Family of unknown function (DUF5953)
+376,ctg1_2713,Family of unknown function (DUF6310)
+377,ctg1_2715,CotH kinase protein
+378,ctg1_2716,PLD-like domain
+379,ctg1_2716,PLD-like domain
+380,ctg1_3099,PAS fold
+381,ctg1_3099,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+382,ctg1_3100,Methyltransferase domain
+383,ctg1_3101,Cytochrome P450
+384,ctg1_3102,Putative peptidoglycan binding domain
+385,ctg1_3102,N-acetylmuramoyl-L-alanine amidase
+386,ctg1_3104,Radical SAM superfamily
+387,ctg1_3107,Methyltransferase small domain
+388,ctg1_3108,Domain of unknown function (DUF4135)
+389,ctg1_3111,"Serine aminopeptidase, S33"
+390,ctg1_3112,Bacterial PH domain
+391,ctg1_3115,SCO1/SenC
+392,ctg1_3213,"Sigma-70, region 4"
+393,ctg1_3214,Cellulase (glycosyl hydrolase family 5)
+394,ctg1_3214,Cellulose binding domain
+395,ctg1_3215,Aldo/keto reductase family
+396,ctg1_3216,Protein kinase domain
+397,ctg1_3218,Cytochrome P450
+398,ctg1_3219,"Terpene synthase family 2, C-terminal metal binding"
+399,ctg1_3220,Glycosyltransferase family 28 N-terminal domain
+400,ctg1_3221,Leucine carboxyl methyltransferase
+401,ctg1_3222,Amidase
+402,ctg1_3226,Domain of unknown function (DUF1330)
+403,ctg1_3227,SnoaL-like domain
+404,ctg1_3228,"Bacterial regulatory helix-turn-helix protein, lysR family"
+405,ctg1_3228,LysR substrate binding domain
+406,ctg1_3393,"Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain"
+407,ctg1_3393,"Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain"
+408,ctg1_3394,Phosphoglycerate kinase
+409,ctg1_3395,Triosephosphate isomerase
+410,ctg1_3396,Preprotein translocase SecG subunit
+411,ctg1_3397,UvrD-like helicase C-terminal domain
+412,ctg1_3399,Fungalysin metallopeptidase (M36)
+413,ctg1_3401,von Willebrand factor type A domain
+414,ctg1_3401,Dockerin type I domain
+415,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+416,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+417,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+418,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+419,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+420,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+421,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+422,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+423,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+424,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+425,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+426,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+427,ctg1_3402,Regulator of chromosome condensation (RCC1) repeat
+428,ctg1_3407,SCP-2 sterol transfer family
+429,ctg1_3407,Cupin-like domain
+430,ctg1_3408,AMP-binding enzyme
+431,ctg1_3408,AMP-binding enzyme C-terminal domain
+432,ctg1_3408,Phosphopantetheine attachment site
+433,ctg1_3408,Condensation domain
+434,ctg1_3408,Phosphopantetheine attachment site
+435,ctg1_3408,Condensation domain
+436,ctg1_3408,Beta-lactamase
+437,ctg1_3409,AMP-binding enzyme
+438,ctg1_3409,Phosphopantetheine attachment site
+439,ctg1_3409,Condensation domain
+440,ctg1_3410,"Serine aminopeptidase, S33"
+441,ctg1_3411,AMP-binding enzyme
+442,ctg1_3412,Phosphopantetheine attachment site
+443,ctg1_3413,Amidohydrolase
+444,ctg1_3417,Enoyl-(Acyl carrier protein) reductase
+445,ctg1_3418,Iron-containing redox enzyme
+446,ctg1_3418,Cupin domain
+447,ctg1_3419,"Bacterial regulatory proteins, luxR family"
+448,ctg1_3420,Bacterial Ig domain
+449,ctg1_3420,Bacterial Ig domain
+450,ctg1_3420,"Galactose oxidase, central domain"
+451,ctg1_3420,"Galactose oxidase, central domain"
+452,ctg1_3420,"Galactose oxidase, central domain"
+453,ctg1_3421,Response regulator receiver domain
+454,ctg1_3421,Sigma-54 interaction domain
+455,ctg1_3422,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+456,ctg1_3423,Subtilase family
+457,ctg1_3509,Serine hydroxymethyltransferase
+458,ctg1_3510,ATP cone domain
+459,ctg1_3511,Cytidine and deoxycytidylate deaminase zinc-binding region
+460,ctg1_3511,RibD C-terminal domain
+461,ctg1_3512,Cytochrome P450
+462,ctg1_3513,Cytochrome P450
+463,ctg1_3514,Methyl-accepting chemotaxis protein (MCP) signalling domain
+464,ctg1_3515,FAD binding domain
+465,ctg1_3516,"Terpene synthase family 2, C-terminal metal binding"
+466,ctg1_3517,Lumazine binding domain
+467,ctg1_3517,Lumazine binding domain
+468,ctg1_3518,"3,4-dihydroxy-2-butanone 4-phosphate synthase"
+469,ctg1_3518,GTP cyclohydrolase II
+470,ctg1_3519,"6,7-dimethyl-8-ribityllumazine synthase"
+471,ctg1_3520,NusB family
+472,ctg1_3521,"Cytosol aminopeptidase family, N-terminal domain"
+473,ctg1_3522,Response regulator receiver domain
+474,ctg1_3523,Hpt domain
+475,ctg1_3523,"Signal transducing histidine kinase, homodimeric domain"
+476,ctg1_3523,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+477,ctg1_3523,CheW-like domain
+478,ctg1_3524,CheW-like domain
+479,ctg1_3525,CheW-like domain
+480,ctg1_3526,HEAT repeats
+481,ctg1_3526,HEAT repeats
+482,ctg1_3526,HEAT repeats
+483,ctg1_3857,Bacterial transcriptional activator domain
+484,ctg1_3857,AAA ATPase domain
+485,ctg1_3858,Pectinacetylesterase
+486,ctg1_3861,Protein of unknown function (DUF692)
+487,ctg1_3863,Phosphoribulokinase / Uridine kinase family
+488,ctg1_3864,alpha/beta hydrolase fold
+489,ctg1_3930,Domain of unknown function (DUF4215)
+490,ctg1_3930,Domain of unknown function (DUF4215)
+491,ctg1_3930,Domain of unknown function (DUF4215)
+492,ctg1_3930,Domain of unknown function (DUF4215)
+493,ctg1_3930,Domain of unknown function (DUF4215)
+494,ctg1_3930,Domain of unknown function (DUF4215)
+495,ctg1_3930,Domain of unknown function (DUF4215)
+496,ctg1_3930,Domain of unknown function (DUF4215)
+497,ctg1_3931,Thrombospondin type 3 repeat
+498,ctg1_3931,Thrombospondin type 3 repeat
+499,ctg1_3931,Thrombospondin type 3 repeat
+500,ctg1_3931,Thrombospondin type 3 repeat
+501,ctg1_3931,OmpA family
+502,ctg1_3932,UvrA DNA-binding domain
+503,ctg1_3932,ABC transporter
+504,ctg1_3933,MMPL family
+505,ctg1_3933,MMPL family
+506,ctg1_3934,Squalene-hopene cyclase N-terminal domain
+507,ctg1_3934,Squalene-hopene cyclase C-terminal domain
+508,ctg1_3935,FAD binding domain
+509,ctg1_3935,Squalene-hopene cyclase C-terminal domain
+510,ctg1_3935,Squalene/phytoene synthase
+511,ctg1_3936,Hsp20/alpha crystallin family
+512,ctg1_3937,2OG-Fe dioxygenase
+513,ctg1_3938,FBP C-terminal treble-clef zinc-finger
+514,ctg1_3940,"Acyl-CoA dehydrogenase, N-terminal domain"
+515,ctg1_3940,"Acyl-CoA dehydrogenase, C-terminal domain"
+516,ctg1_3941,Retinal pigment epithelial membrane protein
+517,ctg1_3942,"Bacterial regulatory proteins, tetR family"
+518,ctg1_3942,"Tetracyclin repressor-like, C-terminal domain"
+519,ctg1_4393,ABC transporter
+520,ctg1_4394,Binding-protein-dependent transport system inner membrane component
+521,ctg1_4396,NMT1-like family
+522,ctg1_4397,Vitamin K-dependent gamma-carboxylase
+523,ctg1_4400,Peptidase family M28
+524,ctg1_4401,Major Facilitator Superfamily
+525,ctg1_4402,AMP-binding enzyme
+526,ctg1_4403,GHMP kinases N terminal domain
+527,ctg1_4403,GHMP kinases C terminal
+528,ctg1_4405,Beta-lactamase superfamily domain
+529,ctg1_4406,ASCH domain
+530,ctg1_4409,Metallo-beta-lactamase superfamily
+531,ctg1_4410,Major Facilitator Superfamily
+532,ctg1_4411,Phosphopantetheine attachment site
+533,ctg1_4411,Condensation domain
+534,ctg1_4411,AMP-binding enzyme
+535,ctg1_4411,AMP-binding enzyme C-terminal domain
+536,ctg1_4411,Phosphopantetheine attachment site
+537,ctg1_4411,Condensation domain
+538,ctg1_4411,AMP-binding enzyme
+539,ctg1_4411,AMP-binding enzyme C-terminal domain
+540,ctg1_4411,Phosphopantetheine attachment site
+541,ctg1_4411,Condensation domain
+542,ctg1_4411,AMP-binding enzyme
+543,ctg1_4411,AMP-binding enzyme C-terminal domain
+544,ctg1_4411,Phosphopantetheine attachment site
+545,ctg1_4411,Condensation domain
+546,ctg1_4411,AMP-binding enzyme
+547,ctg1_4411,Phosphopantetheine attachment site
+548,ctg1_4416,Tetratricopeptide repeat
+549,ctg1_4416,Tetratricopeptide repeat
+550,ctg1_4416,Zincin-like metallopeptidase
+551,ctg1_4417,Response regulator receiver domain
+552,ctg1_4418,TCP-1/cpn60 chaperonin family
+553,ctg1_4419,His Kinase A (phospho-acceptor) domain
+554,ctg1_4419,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+555,ctg1_4419,Response regulator receiver domain
+556,ctg1_4420,Response regulator receiver domain
+557,ctg1_4420,"Diguanylate cyclase, GGDEF domain"
+558,ctg1_4422,Response regulator receiver domain
+559,ctg1_4423,"tRNA synthetases class I (I, L, M and V)"
+560,ctg1_4423,Anticodon-binding domain of tRNA ligase
+561,ctg1_4423,Valyl tRNA synthetase tRNA binding arm
+562,ctg1_4424,"Quinolinate phosphoribosyl transferase, N-terminal domain"
+563,ctg1_4424,"Quinolinate phosphoribosyl transferase, C-terminal domain"
+564,ctg1_4426,Thioesterase superfamily
+565,ctg1_4427,"Bacterial fructose-1,6-bisphosphatase, glpX-encoded"
+566,ctg1_4428,Polyketide cyclase / dehydrase and lipid transport
+567,ctg1_4430,ADP-ribosylglycohydrolase
+568,ctg1_4431,"Enolase, N-terminal domain"
+569,ctg1_4431,"Enolase, C-terminal TIM barrel domain"
+570,ctg1_4432,Survival protein SurE
+571,ctg1_4433,LysM domain
+572,ctg1_4433,Peptidase family M23
+573,ctg1_4435,Tetratricopeptide repeat
+574,ctg1_4435,Tetratricopeptide repeat
+575,ctg1_4435,Tetratricopeptide repeat
+576,ctg1_4436,Serine endopeptidase inhibitors
+577,ctg1_4437,NlpC/P60 family
+578,ctg1_4438,MacB-like periplasmic core domain
+579,ctg1_4438,FtsX-like permease family
+580,ctg1_4438,MacB-like periplasmic core domain
+581,ctg1_4438,FtsX-like permease family
+582,ctg1_4442,ABC transporter
+583,ctg1_4443,LexA DNA binding domain
+584,ctg1_4443,Peptidase S24-like
+585,ctg1_4738,WD40-like Beta Propeller Repeat
+586,ctg1_4738,WD40-like Beta Propeller Repeat
+587,ctg1_4738,WD40-like Beta Propeller Repeat
+588,ctg1_4738,WD40-like Beta Propeller Repeat
+589,ctg1_4738,Amidohydrolase family
+590,ctg1_4740,Ferric reductase like transmembrane component
+591,ctg1_4741,Putative DNA-binding domain
+592,ctg1_4742,Protein of unknown function (DUF692)
+593,ctg1_4743,EF hand
+594,ctg1_4743,EF hand
+595,ctg1_4744,Alpha/beta hydrolase family
+596,ctg1_4745,Cytochrome C biogenesis protein transmembrane region
+597,ctg1_4746,AhpC/TSA family
+598,ctg1_4747,Response regulator receiver domain
+599,ctg1_4747,"Transcriptional regulatory protein, C terminal"
+600,ctg1_4876,Adenylate and Guanylate cyclase catalytic domain
+601,ctg1_4876,Adenylate and Guanylate cyclase catalytic domain
+602,ctg1_4876,AAA ATPase domain
+603,ctg1_4877,ACT domain
+604,ctg1_4877,ACT domain
+605,ctg1_4878,Family of unknown function (DUF6310)
+606,ctg1_4879,Family of unknown function (DUF5953)
+607,ctg1_4880,RibD C-terminal domain
+608,ctg1_4881,HTH domain
+609,ctg1_4881,WYL domain
+610,ctg1_4882,"Bacterial regulatory helix-turn-helix protein, lysR family"
+611,ctg1_4882,LysR substrate binding domain
+612,ctg1_4883,Carbon-nitrogen hydrolase
+613,ctg1_4885,RNA 3'-terminal phosphate cyclase
+614,ctg1_4886,Ricin-type beta-trefoil lectin domain
+615,ctg1_4886,Glycosyl hydrolases family 18
+616,ctg1_4887,F5/8 type C domain
+617,ctg1_4887,F5/8 type C domain
+618,ctg1_4887,Glycosyl hydrolase family 81 N-terminal domain
+619,ctg1_4887,Glycosyl hydrolase family 81 C-terminal domain
+620,ctg1_4890,3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+621,ctg1_4890,3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+622,ctg1_4891,AMP-binding enzyme
+623,ctg1_4891,AMP-binding enzyme C-terminal domain
+624,ctg1_4892,SnoaL-like domain
+625,ctg1_4893,Ricin-type beta-trefoil lectin domain-like
+626,ctg1_4894,His Kinase A (phospho-acceptor) domain
+627,ctg1_4894,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+628,ctg1_4895,Response regulator receiver domain
+629,ctg1_4895,"Transcriptional regulatory protein, C terminal"
+630,ctg1_4896,von Willebrand factor type A domain
+631,ctg1_4897,HsdM N-terminal domain
+632,ctg1_4897,N-6 DNA Methylase
+633,ctg1_4898,Type I restriction modification DNA specificity domain
+634,ctg1_4898,Type I restriction modification DNA specificity domain
+635,ctg1_4899,Type I restriction enzyme R protein N terminus (HSDR_N)
+636,ctg1_4899,SWI2/SNF2 ATPase
+637,ctg1_4899,Domain of unknown function (DUF3387)
+638,ctg1_4900,"YgjP-like, metallopeptidase domain"
+639,ctg1_4901,DDE superfamily endonuclease
+640,ctg1_4903,zinc-finger of transposase IS204/IS1001/IS1096/IS1165
+641,ctg1_4903,Helix-turn-helix domain of transposase family ISL3
+642,ctg1_4903,Transposase
+643,ctg1_4904,Transposase DDE domain
+644,ctg1_4905,Helix-turn-helix domain
+645,ctg1_5086,Iron-sulfur cluster assembly protein
+646,ctg1_5086,NUBPL iron-transfer P-loop NTPase
+647,ctg1_5089,"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain"
+648,ctg1_5089,"3-hydroxyacyl-CoA dehydrogenase, C-terminal domain"
+649,ctg1_5090,Enoyl-CoA hydratase/isomerase
+650,ctg1_5091,"Acyl-CoA dehydrogenase, N-terminal domain"
+651,ctg1_5091,"Acyl-CoA dehydrogenase, middle domain"
+652,ctg1_5091,"Acyl-CoA dehydrogenase, C-terminal domain"
+653,ctg1_5093,"Acyl-CoA dehydrogenase, N-terminal domain"
+654,ctg1_5093,"Acyl-CoA dehydrogenase, middle domain"
+655,ctg1_5093,"Acyl-CoA dehydrogenase, C-terminal domain"
+656,ctg1_5095,"Lantibiotic dehydratase, N terminus"
+657,ctg1_5095,Lantibiotic biosynthesis dehydratase C-term
+658,ctg1_5096,"Bacterial regulatory proteins, tetR family"
+659,ctg1_5097,S1 RNA binding domain
+660,ctg1_5097,S1 RNA binding domain
+661,ctg1_5097,S1 RNA binding domain
+662,ctg1_5097,S1 RNA binding domain
+663,ctg1_5097,S1 RNA binding domain
+664,ctg1_5097,S1 RNA binding domain
+665,ctg1_5098,"Thiolase, N-terminal domain"
+666,ctg1_5098,"Thiolase, C-terminal domain"
+667,ctg1_5099,Coenzyme A transferase
+668,ctg1_5100,Coenzyme A transferase
+669,ctg1_5101,tRNA (Uracil-5-)-methyltransferase
+670,ctg1_5102,Protein of unknown function (DUF2855)
+671,ctg1_5103,Protein of unknown function (DUF3050)
+672,ctg1_5393,"Bacterial regulatory helix-turn-helix protein, lysR family"
+673,ctg1_5393,LysR substrate binding domain
+674,ctg1_5394,Acetyltransferase (GNAT) family
+675,ctg1_5395,Calcineurin-like phosphoesterase
+676,ctg1_5395,"5'-nucleotidase, C-terminal domain"
+677,ctg1_5399,PBP superfamily domain
+678,ctg1_5400,HAMP domain
+679,ctg1_5400,Methyl-accepting chemotaxis protein (MCP) signalling domain
+680,ctg1_5401,HlyD family secretion protein
+681,ctg1_5402,"Lantibiotic dehydratase, N terminus"
+682,ctg1_5402,Lantibiotic biosynthesis dehydratase C-term
+683,ctg1_5403,Lanthionine synthetase C-like protein
+684,ctg1_5404,Biotin-lipoyl like
+685,ctg1_5404,HlyD family secretion protein
+686,ctg1_5405,Peptidase C39 family
+687,ctg1_5405,ABC transporter transmembrane region
+688,ctg1_5405,ABC transporter
+689,ctg1_5408,Kelch motif
+690,ctg1_5408,"Galactose oxidase, central domain"
+691,ctg1_5408,"Galactose oxidase, central domain"
+692,ctg1_5489,Protein kinase domain
+693,ctg1_5489,AAA ATPase domain
+694,ctg1_5489,GAF domain
+695,ctg1_5489,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+696,ctg1_5491,Common central domain of tyrosinase
+697,ctg1_5492,Protein of unknown function (DUF3142)
+698,ctg1_5492,Protein of unknown function (DUF3142)
+699,ctg1_5494,Alpha/beta hydrolase family
+700,ctg1_5495,Enoyl-(Acyl carrier protein) reductase
+701,ctg1_5496,Haem degrading protein HbpS-like
+702,ctg1_5497,Copper/zinc superoxide dismutase (SODC)
+703,ctg1_5499,ABC transporter
+704,ctg1_5499,ABC transporter
+705,ctg1_5500,GAF domain
+706,ctg1_5500,His Kinase A (phospho-acceptor) domain
+707,ctg1_5500,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+708,ctg1_5503,Bacterial transcriptional activator domain
+709,ctg1_5503,AAA ATPase domain
+710,ctg1_5504,"Beta-ketoacyl synthase, N-terminal domain"
+711,ctg1_5504,"Beta-ketoacyl synthase, C-terminal domain"
+712,ctg1_5504,Ketoacyl-synthetase C-terminal extension
+713,ctg1_5504,Acyl transferase domain
+714,ctg1_5504,Phosphopantetheine attachment site
+715,ctg1_5504,Aminotransferase class-III
+716,ctg1_5504,Luciferase-like monooxygenase
+717,ctg1_5504,Condensation domain
+718,ctg1_5504,AMP-binding enzyme
+719,ctg1_5504,AMP-binding enzyme C-terminal domain
+720,ctg1_5504,Phosphopantetheine attachment site
+721,ctg1_5504,Thioesterase domain
+722,ctg1_5505,Cytochrome P450
+723,ctg1_5506,AMP-binding enzyme
+724,ctg1_5506,Phosphopantetheine attachment site
+725,ctg1_5507,Enoyl-(Acyl carrier protein) reductase
+726,ctg1_5508,Glycosyl hydrolases family 16
+727,ctg1_5509,ABC transporter transmembrane region
+728,ctg1_5509,ABC transporter
+729,ctg1_5510,ABC transporter transmembrane region
+730,ctg1_5510,ABC transporter
+731,ctg1_5511,"Protein of unknown function, DUF481"
+732,ctg1_5513,Radical SAM superfamily
+733,ctg1_5514,Short C-terminal domain
+734,ctg1_5515,Rnk N-terminus
+735,ctg1_5515,"Transcription elongation factor, GreA/GreB, C-term"
+736,ctg1_5517,GntP family permease
+737,ctg1_5518,Aldo/keto reductase family
+738,ctg1_5520,A nuclease family of the HNH/ENDO VII superfamily with conserved AHH
+739,ctg1_5522,Transposase domain (DUF772)
+740,ctg1_5522,Transposase DDE domain
+741,ctg1_5523,Transposase domain (DUF772)
+742,ctg1_5523,Transposase DDE domain
+743,ctg1_5524,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+744,ctg1_5614,alpha/beta hydrolase fold
+745,ctg1_5615,AraC-type transcriptional regulator N-terminus
+746,ctg1_5615,Helix-turn-helix domain
+747,ctg1_5616,Enoyl-(Acyl carrier protein) reductase
+748,ctg1_5617,PAS fold
+749,ctg1_5617,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+750,ctg1_5618,alpha/beta hydrolase fold
+751,ctg1_5619,HAMP domain
+752,ctg1_5619,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+753,ctg1_5620,Response regulator receiver domain
+754,ctg1_5621,Peptidase family M13
+755,ctg1_5621,Peptidase family M13
+756,ctg1_5622,Glutamine amidotransferase domain
+757,ctg1_5622,Asparagine synthase
+758,ctg1_5623,AMP-binding enzyme
+759,ctg1_5623,AMP-binding enzyme C-terminal domain
+760,ctg1_5624,"Acyl-CoA dehydrogenase, middle domain"
+761,ctg1_5624,"Acyl-CoA dehydrogenase, C-terminal domain"
+762,ctg1_5625,Condensation domain
+763,ctg1_5625,Phosphopantetheine attachment site
+764,ctg1_5625,Condensation domain
+765,ctg1_5625,Condensation domain
+766,ctg1_5625,AMP-binding enzyme
+767,ctg1_5625,AMP-binding enzyme C-terminal domain
+768,ctg1_5625,Phosphopantetheine attachment site
+769,ctg1_5625,Condensation domain
+770,ctg1_5625,Condensation domain
+771,ctg1_5625,AMP-binding enzyme
+772,ctg1_5625,AMP-binding enzyme C-terminal domain
+773,ctg1_5625,Phosphopantetheine attachment site
+774,ctg1_5626,Major Facilitator Superfamily
+775,ctg1_5627,AMP-binding enzyme
+776,ctg1_5628,"Beta-ketoacyl synthase, N-terminal domain"
+777,ctg1_5628,"Beta-ketoacyl synthase, C-terminal domain"
+778,ctg1_5628,Ketoacyl-synthetase C-terminal extension
+779,ctg1_5628,Acyl transferase domain
+780,ctg1_5628,Phosphopantetheine attachment site
+781,ctg1_5629,Thioesterase domain
+782,ctg1_5630,"Carbamoyl-phosphate synthase L chain, ATP binding domain"
+783,ctg1_5630,"Carbamoyl-phosphate synthetase large chain, oligomerisation domain"
+784,ctg1_5630,"Carbamoyl-phosphate synthase L chain, ATP binding domain"
+785,ctg1_5630,MGS-like domain
+786,ctg1_5632,Aminotransferase class I and II
+787,ctg1_5633,Cytidylyltransferase-like
+788,ctg1_5634,Conserved hypothetical protein 95
+789,ctg1_5637,Domain of unknown function (DUF2019)
+790,ctg1_5639,"Pyruvate phosphate dikinase, AMP/ATP-binding domain"
+791,ctg1_5639,"PEP-utilising enzyme, mobile domain"
+792,ctg1_5641,2'-5' RNA ligase superfamily
+793,ctg1_5642,Dolichyl-phosphate-mannose-protein mannosyltransferase
+794,ctg1_5642,Archaeal glycosylation protein B long peripheral domain
+795,ctg1_5643,Periplasmic binding protein domain
+796,ctg1_5644,ABC transporter
+797,ctg1_5645,Branched-chain amino acid transport system / permease component
+798,ctg1_5646,Cation efflux family
+799,ctg1_5762,AzlC protein
+800,ctg1_5764,A-factor biosynthesis hotdog domain
+801,ctg1_5765,Flavin containing amine oxidoreductase
+802,ctg1_5766,Radical SAM superfamily
+803,ctg1_5767,"Serine aminopeptidase, S33"
+804,ctg1_5781,Carboxypeptidase regulatory-like domain
+805,ctg1_5781,Carboxypeptidase regulatory-like domain
+806,ctg1_5781,Carboxypeptidase regulatory-like domain
+807,ctg1_5781,Carboxypeptidase regulatory-like domain
+808,ctg1_5781,Carboxypeptidase regulatory-like domain
+809,ctg1_5782,Protein phosphatase 2C
+810,ctg1_5782,Cyclic nucleotide-binding domain
+811,ctg1_5783,FHA domain
+812,ctg1_5786,KR domain
+813,ctg1_5786,Phosphopantetheine attachment site
+814,ctg1_5787,Inositol monophosphatase family
+815,ctg1_5794,Protein of unknown function (DUF2283)
+816,ctg1_5796,Fatty acid desaturase
+817,ctg1_5797,AMP-binding enzyme
+818,ctg1_5797,Phosphopantetheine attachment site
+819,ctg1_5797,Condensation domain
+820,ctg1_5797,AMP-binding enzyme
+821,ctg1_5797,AMP-binding enzyme C-terminal domain
+822,ctg1_5797,Phosphopantetheine attachment site
+823,ctg1_5797,Condensation domain
+824,ctg1_5797,AMP-binding enzyme
+825,ctg1_5797,AMP-binding enzyme C-terminal domain
+826,ctg1_5797,Phosphopantetheine attachment site
+827,ctg1_5797,Condensation domain
+828,ctg1_5797,AMP-binding enzyme
+829,ctg1_5797,AMP-binding enzyme C-terminal domain
+830,ctg1_5797,Phosphopantetheine attachment site
+831,ctg1_5797,Condensation domain
+832,ctg1_5797,AMP-binding enzyme
+833,ctg1_5797,AMP-binding enzyme C-terminal domain
+834,ctg1_5797,Phosphopantetheine attachment site
+835,ctg1_5797,Condensation domain
+836,ctg1_5797,AMP-binding enzyme
+837,ctg1_5797,AMP-binding enzyme C-terminal domain
+838,ctg1_5797,Phosphopantetheine attachment site
+839,ctg1_5797,Thioesterase domain
+840,ctg1_5800,Methyltransferase domain
+841,ctg1_5801,Major Facilitator Superfamily
+842,ctg1_5802,"Cation transporter/ATPase, N-terminus"
+843,ctg1_5802,E1-E2 ATPase
+844,ctg1_5802,Cation transport ATPase (P-type)
+845,ctg1_5802,haloacid dehalogenase-like hydrolase
+846,ctg1_5802,"Cation transporting ATPase, C-terminus"
+847,ctg1_5804,F5/8 type C domain
+848,ctg1_5804,Carbohydrate binding module (family 35)
+849,ctg1_5804,CARDB
+850,ctg1_5804,CARDB
+851,ctg1_5804,Pectate lyase superfamily protein
+852,ctg1_5805,Bacterial extracellular solute-binding protein
+853,ctg1_5806,Pectate lyase superfamily protein
+854,ctg1_5807,"Bacterial regulatory proteins, tetR family"
+855,ctg1_5808,Beta-lactamase
+856,ctg1_5852,Lysylphosphatidylglycerol synthase TM region
+857,ctg1_5853,DNA gyrase inhibitor YacG
+858,ctg1_5854,CBS domain
+859,ctg1_5854,Divalent cation transporter
+860,ctg1_5855,Alcohol dehydrogenase GroES-like domain
+861,ctg1_5855,Zinc-binding dehydrogenase
+862,ctg1_5856,Major intrinsic protein
+863,ctg1_5857,Dihydrouridine synthase (Dus)
+864,ctg1_5858,Arginase family
+865,ctg1_5859,Glycosyl hydrolase family 92 N-terminal domain
+866,ctg1_5859,Glycosyl hydrolase family 92
+867,ctg1_5860,Protein kinase domain
+868,ctg1_5860,Lanthionine synthetase C-like protein
+869,ctg1_5863,Domain of unknown function (DUF6249)
+870,ctg1_5864,Sigma-70 region 2
+871,ctg1_5864,"Sigma-70, region 4"
+872,ctg1_5867,"Bacterial regulatory helix-turn-helix protein, lysR family"
+873,ctg1_5867,LysR substrate binding domain
+874,ctg1_5868,Sulfite exporter TauE/SafE
+875,ctg1_5869,UDP-glucoronosyl and UDP-glucosyl transferase
+876,ctg1_5870,Pregnancy-associated plasma protein-A
+877,ctg1_5914,Hsp70 protein
+878,ctg1_5914,Hsp70 protein
+879,ctg1_5915,GrpE
+880,ctg1_5916,Fibronectin type III domain
+881,ctg1_5916,Fibronectin type III domain
+882,ctg1_5916,Carbohydrate binding domain (family 25)
+883,ctg1_5916,Starch binding domain
+884,ctg1_5918,Ion transport protein
+885,ctg1_5919,F5/8 type C domain
+886,ctg1_5919,Glycosyl hydrolase family 92 N-terminal domain
+887,ctg1_5919,Glycosyl hydrolase family 92
+888,ctg1_5920,"Bacterial regulatory proteins, tetR family"
+889,ctg1_5920,"Tetracyclin repressor-like, C-terminal domain"
+890,ctg1_5921,Pyridoxamine 5'-phosphate oxidase
+891,ctg1_5922,"Bacterial regulatory proteins, gntR family"
+892,ctg1_5922,Aminotransferase class I and II
+893,ctg1_5923,FAD binding domain
+894,ctg1_5924,Protein of unknown function (DUF3396)
+895,ctg1_5926,Domain of unknown function (DUF4440)
+896,ctg1_5927,AMP-binding enzyme
+897,ctg1_5927,Phosphopantetheine attachment site
+898,ctg1_5927,Condensation domain
+899,ctg1_5927,AMP-binding enzyme
+900,ctg1_5927,AMP-binding enzyme C-terminal domain
+901,ctg1_5927,Phosphopantetheine attachment site
+902,ctg1_5927,"Beta-ketoacyl synthase, N-terminal domain"
+903,ctg1_5927,"Beta-ketoacyl synthase, C-terminal domain"
+904,ctg1_5927,Ketoacyl-synthetase C-terminal extension
+905,ctg1_5927,Acyl transferase domain
+906,ctg1_5927,Phosphopantetheine attachment site
+907,ctg1_5927,Condensation domain
+908,ctg1_5927,AMP-binding enzyme
+909,ctg1_5927,Luciferase-like monooxygenase
+910,ctg1_5927,Condensation domain
+911,ctg1_5927,AMP-binding enzyme
+912,ctg1_5927,AMP-binding enzyme C-terminal domain
+913,ctg1_5927,Phosphopantetheine attachment site
+914,ctg1_5927,Condensation domain
+915,ctg1_5927,AMP-binding enzyme
+916,ctg1_5927,AMP-binding enzyme C-terminal domain
+917,ctg1_5927,Phosphopantetheine attachment site
+918,ctg1_5927,Condensation domain
+919,ctg1_5927,AMP-binding enzyme
+920,ctg1_5927,AMP-binding enzyme C-terminal domain
+921,ctg1_5927,Phosphopantetheine attachment site
+922,ctg1_5927,Condensation domain
+923,ctg1_5927,AMP-binding enzyme
+924,ctg1_5927,AMP-binding enzyme C-terminal domain
+925,ctg1_5927,Phosphopantetheine attachment site
+926,ctg1_5927,Thioesterase domain
+927,ctg1_5932,ABC transporter transmembrane region
+928,ctg1_5932,ABC transporter
+929,ctg1_5934,Bacterial Ig domain
+930,ctg1_5934,Bacterial Ig domain
+931,ctg1_5935,Diiron non-heme beta-hydroxylase N-terminal domain
+932,ctg1_5935,Beta-lactamase superfamily domain
+933,ctg1_5936,"Helicase HerA, central domain"
+934,ctg1_5937,Sigma-70 region 2
+935,ctg1_5938,Acetyltransferase (GNAT) domain
+936,ctg1_5939,Iron-containing redox enzyme
+937,ctg1_5940,"Bacterial regulatory proteins, luxR family"
+938,ctg1_5941,"Bacterial regulatory proteins, tetR family"
+939,ctg1_5942,Fatty acid hydroxylase
+940,ctg1_5945,Putative restriction endonuclease
+941,ctg1_5946,Dienelactone hydrolase family
+942,ctg1_5985,IgA Peptidase M64
+943,ctg1_5985,IgA Peptidase M64
+944,ctg1_5986,Protein kinase domain
+945,ctg1_5987,ADYC domain
+946,ctg1_5988,FHA domain
+947,ctg1_5988,Sigma-54 interaction domain
+948,ctg1_5988,"Bacterial regulatory protein, Fis family"
+949,ctg1_5989,Glutaredoxin
+950,ctg1_5990,Sigma-54 interaction domain
+951,ctg1_5990,"Bacterial regulatory protein, Fis family"
+952,ctg1_5991,Aldehyde dehydrogenase family
+953,ctg1_5992,Alcohol dehydrogenase GroES-like domain
+954,ctg1_5992,Zinc-binding dehydrogenase
+955,ctg1_5993,Domain of unknown function (DUF1963)
+956,ctg1_5994,Thioesterase domain
+957,ctg1_5994,Phosphopantetheine attachment site
+958,ctg1_5995,"Beta-ketoacyl synthase, N-terminal domain"
+959,ctg1_5995,"Beta-ketoacyl synthase, C-terminal domain"
+960,ctg1_5995,Ketoacyl-synthetase C-terminal extension
+961,ctg1_5995,Acyl transferase domain
+962,ctg1_5995,Polyketide synthase dehydratase
+963,ctg1_5995,KR domain
+964,ctg1_5995,Phosphopantetheine attachment site
+965,ctg1_5997,Anion-transporting ATPase
+966,ctg1_5997,HSP20-like domain found in ArsA
+967,ctg1_5998,Patatin-like phospholipase
+968,ctg1_5999,TubC N-terminal docking domain
+969,ctg1_5999,Condensation domain
+970,ctg1_5999,AMP-binding enzyme
+971,ctg1_5999,AMP-binding enzyme C-terminal domain
+972,ctg1_5999,Phosphopantetheine attachment site
+973,ctg1_5999,Thioesterase domain
+974,ctg1_6000,"Beta-ketoacyl synthase, N-terminal domain"
+975,ctg1_6000,"Beta-ketoacyl synthase, C-terminal domain"
+976,ctg1_6000,Ketoacyl-synthetase C-terminal extension
+977,ctg1_6000,Acyl transferase domain
+978,ctg1_6000,Polyketide synthase dehydratase
+979,ctg1_6000,KR domain
+980,ctg1_6000,Phosphopantetheine attachment site
+981,ctg1_6001,"Beta-ketoacyl synthase, N-terminal domain"
+982,ctg1_6001,"Beta-ketoacyl synthase, C-terminal domain"
+983,ctg1_6001,Ketoacyl-synthetase C-terminal extension
+984,ctg1_6001,Acyl transferase domain
+985,ctg1_6001,Polyketide synthase dehydratase
+986,ctg1_6001,KR domain
+987,ctg1_6001,Phosphopantetheine attachment site
+988,ctg1_6002,TubC N-terminal docking domain
+989,ctg1_6002,Condensation domain
+990,ctg1_6002,AMP-binding enzyme
+991,ctg1_6002,AMP-binding enzyme C-terminal domain
+992,ctg1_6002,Phosphopantetheine attachment site
+993,ctg1_6002,"Beta-ketoacyl synthase, N-terminal domain"
+994,ctg1_6002,"Beta-ketoacyl synthase, C-terminal domain"
+995,ctg1_6002,Ketoacyl-synthetase C-terminal extension
+996,ctg1_6002,Acyl transferase domain
+997,ctg1_6002,Polyketide synthase dehydratase
+998,ctg1_6002,KR domain
+999,ctg1_6002,Phosphopantetheine attachment site
+1000,ctg1_6003,"Beta-ketoacyl synthase, N-terminal domain"
+1001,ctg1_6003,"Beta-ketoacyl synthase, C-terminal domain"
+1002,ctg1_6003,Ketoacyl-synthetase C-terminal extension
+1003,ctg1_6003,Acyl transferase domain
+1004,ctg1_6003,KR domain
+1005,ctg1_6003,Phosphopantetheine attachment site
+1006,ctg1_6004,"Beta-ketoacyl synthase, N-terminal domain"
+1007,ctg1_6004,"Beta-ketoacyl synthase, C-terminal domain"
+1008,ctg1_6004,Ketoacyl-synthetase C-terminal extension
+1009,ctg1_6004,Phosphopantetheine attachment site
+1010,ctg1_6005,"Acyl-CoA dehydrogenase, N-terminal domain"
+1011,ctg1_6005,"Acyl-CoA dehydrogenase, middle domain"
+1012,ctg1_6005,"Acyl-CoA dehydrogenase, C-terminal domain"
+1013,ctg1_6006,AMP-binding enzyme
+1014,ctg1_6006,AMP-binding enzyme C-terminal domain
+1015,ctg1_6008,HEAT repeats
+1016,ctg1_6009,Metallo-beta-lactamase superfamily
+1017,ctg1_6010,"Glutathione S-transferase, N-terminal domain"
+1018,ctg1_6011,Retinal pigment epithelial membrane protein
+1019,ctg1_6012,"Bacterial regulatory proteins, tetR family"
+1020,ctg1_6012,"Tetracyclin repressor-like, C-terminal domain"
+1021,ctg1_6013,"Bacterial extracellular solute-binding proteins, family 3"
+1022,ctg1_6014,Binding-protein-dependent transport system inner membrane component
+1023,ctg1_6015,Binding-protein-dependent transport system inner membrane component
+1024,ctg1_6016,ABC transporter
+1025,ctg1_6017,Penicillin amidase
+1026,ctg1_6276,Cobinamide kinase / cobinamide phosphate guanyltransferase
+1027,ctg1_6277,Adenosylcobinamide amidohydrolase
+1028,ctg1_6278,CobQ/CobB/MinD/ParA nucleotide binding domain
+1029,ctg1_6278,CobB/CobQ-like glutamine amidotransferase domain
+1030,ctg1_6279,ATP:corrinoid adenosyltransferase BtuR/CobO/CobP
+1031,ctg1_6280,AAA domain
+1032,ctg1_6280,Tetrapyrrole (Corrin/Porphyrin) Methylases
+1033,ctg1_6281,Tetrapyrrole (Corrin/Porphyrin) Methylases
+1034,ctg1_6283,Tetrapyrrole (Corrin/Porphyrin) Methylases
+1035,ctg1_6284,Cobalamin synthesis G N-terminal
+1036,ctg1_6284,Cobalamin biosynthesis central region
+1037,ctg1_6284,Cobalamin synthesis G C-terminus
+1038,ctg1_6285,Tetrapyrrole (Corrin/Porphyrin) Methylases
+1039,ctg1_6286,Tetrapyrrole (Corrin/Porphyrin) Methylases
+1040,ctg1_6286,Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+1041,ctg1_6287,Precorrin-8X methylmutase
+1042,ctg1_6288,CbiD
+1043,ctg1_6289,Oxidoreductase FAD-binding domain
+1044,ctg1_6290,Protein of unknown function (DUF3209)
+1045,ctg1_6291,CbiX
+1046,ctg1_6291,CbiX
+1047,ctg1_6291,Thioredoxin-like [2Fe-2S] ferredoxin
+1048,ctg1_6292,ABC transporter
+1049,ctg1_6293,Cobalt transport protein
+1050,ctg1_6295,Cobalt uptake substrate-specific transmembrane region
+1051,ctg1_6296,Nitroreductase family
+1052,ctg1_6297,Histidine phosphatase superfamily (branch 1)
+1053,ctg1_6298,Methyltransferase domain
+1054,ctg1_6299,TubC N-terminal docking domain
+1055,ctg1_6299,Condensation domain
+1056,ctg1_6299,AMP-binding enzyme
+1057,ctg1_6299,AMP-binding enzyme C-terminal domain
+1058,ctg1_6299,Phosphopantetheine attachment site
+1059,ctg1_6299,Male sterility protein
+1060,ctg1_6300,"Beta-ketoacyl synthase, N-terminal domain"
+1061,ctg1_6300,"Beta-ketoacyl synthase, C-terminal domain"
+1062,ctg1_6300,Ketoacyl-synthetase C-terminal extension
+1063,ctg1_6300,Acyl transferase domain
+1064,ctg1_6300,Polyketide synthase dehydratase
+1065,ctg1_6300,Zinc-binding dehydrogenase
+1066,ctg1_6300,KR domain
+1067,ctg1_6300,Phosphopantetheine attachment site
+1068,ctg1_6301,"Beta-ketoacyl synthase, N-terminal domain"
+1069,ctg1_6301,"Beta-ketoacyl synthase, C-terminal domain"
+1070,ctg1_6301,Ketoacyl-synthetase C-terminal extension
+1071,ctg1_6301,Acyl transferase domain
+1072,ctg1_6301,Polyketide synthase dehydratase
+1073,ctg1_6301,KR domain
+1074,ctg1_6301,Phosphopantetheine attachment site
+1075,ctg1_6301,"Beta-ketoacyl synthase, N-terminal domain"
+1076,ctg1_6301,"Beta-ketoacyl synthase, C-terminal domain"
+1077,ctg1_6301,Ketoacyl-synthetase C-terminal extension
+1078,ctg1_6301,Acyl transferase domain
+1079,ctg1_6301,KR domain
+1080,ctg1_6301,Phosphopantetheine attachment site
+1081,ctg1_6301,"Beta-ketoacyl synthase, N-terminal domain"
+1082,ctg1_6301,"Beta-ketoacyl synthase, C-terminal domain"
+1083,ctg1_6301,Ketoacyl-synthetase C-terminal extension
+1084,ctg1_6301,Acyl transferase domain
+1085,ctg1_6301,Polyketide synthase dehydratase
+1086,ctg1_6301,KR domain
+1087,ctg1_6301,Phosphopantetheine attachment site
+1088,ctg1_6302,"Beta-ketoacyl synthase, N-terminal domain"
+1089,ctg1_6302,"Beta-ketoacyl synthase, C-terminal domain"
+1090,ctg1_6302,Ketoacyl-synthetase C-terminal extension
+1091,ctg1_6302,Acyl transferase domain
+1092,ctg1_6302,Polyketide synthase dehydratase
+1093,ctg1_6302,KR domain
+1094,ctg1_6302,Phosphopantetheine attachment site
+1095,ctg1_6303,"Beta-ketoacyl synthase, N-terminal domain"
+1096,ctg1_6303,"Beta-ketoacyl synthase, C-terminal domain"
+1097,ctg1_6303,Ketoacyl-synthetase C-terminal extension
+1098,ctg1_6303,Acyl transferase domain
+1099,ctg1_6303,Polyketide synthase dehydratase
+1100,ctg1_6303,KR domain
+1101,ctg1_6303,Phosphopantetheine attachment site
+1102,ctg1_6304,Phosphopantetheine attachment site
+1103,ctg1_6304,"Beta-ketoacyl synthase, N-terminal domain"
+1104,ctg1_6304,"Beta-ketoacyl synthase, C-terminal domain"
+1105,ctg1_6304,Ketoacyl-synthetase C-terminal extension
+1106,ctg1_6304,Acyl transferase domain
+1107,ctg1_6304,Acyl transferase domain
+1108,ctg1_6304,Polyketide synthase dehydratase
+1109,ctg1_6304,KR domain
+1110,ctg1_6304,Phosphopantetheine attachment site
+1111,ctg1_6306,Peptidase family M3
+1112,ctg1_6307,His Kinase A (phospho-acceptor) domain
+1113,ctg1_6307,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+1114,ctg1_6308,Response regulator receiver domain
+1115,ctg1_6308,"Transcriptional regulatory protein, C terminal"
+1116,ctg1_6309,Gram-negative bacterial TonB protein C-terminal
+1117,ctg1_6311,Binding-protein-dependent transport system inner membrane component
+1118,ctg1_6312,ABC transporter
+1119,ctg1_6312,TOBE domain
+1120,ctg1_6313,Glycosyl transferase WecG/TagA/CpsF family
+1121,ctg1_6314,"Bacterial regulatory proteins, luxR family"
+1122,ctg1_6315,RDD family
+1123,ctg1_6316,Stage II sporulation protein M
+1124,ctg1_6317,DnaJ domain
+1125,ctg1_6318,NADP oxidoreductase coenzyme F420-dependent
+1126,ctg1_6318,Pyrroline-5-carboxylate reductase dimerisation
+1127,ctg1_6319,DivIVA protein
+1128,ctg1_6320,Peptidase MA superfamily
+1129,ctg1_6573,HEAT repeats
+1130,ctg1_6574,"Acyl-CoA dehydrogenase, N-terminal domain"
+1131,ctg1_6574,"Acyl-CoA dehydrogenase, middle domain"
+1132,ctg1_6574,"Acyl-CoA dehydrogenase, C-terminal domain"
+1133,ctg1_6578,A nuclease family of the HNH/ENDO VII superfamily with conserved AHH
+1134,ctg1_6581,"Type II secretion system (T2SS), protein E, N-terminal domain"
+1135,ctg1_6583,Glyoxalase-like domain
+1136,ctg1_6585,MarR family
+1137,ctg1_6586,OsmC-like protein
+1138,ctg1_6587,Fungalysin/Thermolysin Propeptide Motif
+1139,ctg1_6587,Peptidase propeptide and YPEB domain
+1140,ctg1_6587,"Thermolysin metallopeptidase, catalytic domain"
+1141,ctg1_6587,"Thermolysin metallopeptidase, alpha-helical domain"
+1142,ctg1_6589,Beta-eliminating lyase
+1143,ctg1_6591,"Beta-ketoacyl synthase, N-terminal domain"
+1144,ctg1_6591,"Beta-ketoacyl synthase, C-terminal domain"
+1145,ctg1_6591,Ketoacyl-synthetase C-terminal extension
+1146,ctg1_6591,Acyl transferase domain
+1147,ctg1_6592,"Beta-ketoacyl synthase, N-terminal domain"
+1148,ctg1_6592,"Beta-ketoacyl synthase, C-terminal domain"
+1149,ctg1_6592,Ketoacyl-synthetase C-terminal extension
+1150,ctg1_6592,Acyl transferase domain
+1151,ctg1_6592,KR domain
+1152,ctg1_6592,Phosphopantetheine attachment site
+1153,ctg1_6592,"Beta-ketoacyl synthase, N-terminal domain"
+1154,ctg1_6592,"Beta-ketoacyl synthase, C-terminal domain"
+1155,ctg1_6592,Ketoacyl-synthetase C-terminal extension
+1156,ctg1_6592,Polyketide synthase dehydratase
+1157,ctg1_6592,KR domain
+1158,ctg1_6592,Phosphopantetheine attachment site
+1159,ctg1_6593,"Beta-ketoacyl synthase, N-terminal domain"
+1160,ctg1_6593,"Beta-ketoacyl synthase, C-terminal domain"
+1161,ctg1_6593,Ketoacyl-synthetase C-terminal extension
+1162,ctg1_6593,Acyl transferase domain
+1163,ctg1_6593,Acyl transferase domain
+1164,ctg1_6593,Acyl transferase domain
+1165,ctg1_6593,Polyketide synthase dehydratase
+1166,ctg1_6593,Zinc-binding dehydrogenase
+1167,ctg1_6593,KR domain
+1168,ctg1_6593,Phosphopantetheine attachment site
+1169,ctg1_6594,CoA-transferase family III
+1170,ctg1_6595,SCP-2 sterol transfer family
+1171,ctg1_6596,Response regulator receiver domain
+1172,ctg1_6597,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+1173,ctg1_6598,mttA/Hcf106 family
+1174,ctg1_6599,Tetratricopeptide repeat
+1175,ctg1_6600,"Sigma-70 factor, region 1.2"
+1176,ctg1_6600,Sigma-70 region 2
+1177,ctg1_6600,"Sigma-70, region 4"
+1178,ctg1_6601,FAD binding domain
+1179,ctg1_6601,"FAD linked oxidases, C-terminal domain"
+1180,ctg1_6602,GTP cyclohydrolase I
+1181,ctg1_6605,Zinc-uptake complex component A periplasmic
+1182,ctg1_6607,ABC transporter
+1183,ctg1_6608,ABC 3 transport family
+1184,ctg1_6609,Isochorismatase family
+1185,ctg1_6610,CBS domain
+1186,ctg1_6610,CBS domain
+1187,ctg1_6611,Alpha/beta hydrolase family
+1188,ctg1_6612,Tetratricopeptide repeat
+1189,ctg1_6618,Inhibitor of apoptosis-promoting Bax1
+1190,ctg1_6619,Scramblase
+1191,ctg1_6621,Class II vitamin B12-dependent ribonucleotide reductase
+1192,ctg1_6621,"Ribonucleotide reductase, barrel domain"
+1193,ctg1_6622,Carbohydrate family 9 binding domain-like
+1194,ctg1_6622,Domain of unknown function (DUF5916)
+1195,ctg1_6622,Domain of unknown function (DUF5916)
+1196,ctg1_6623,Aminoacyl-tRNA editing domain
+1197,ctg1_6624,Lyase
+1198,ctg1_6624,Argininosuccinate lyase C-terminal
+1199,ctg1_6625,"Taurine catabolism dioxygenase TauD, TfdA family"
+1200,ctg1_6626,Diiron non-heme beta-hydroxylase N-terminal domain
+1201,ctg1_6626,Beta-lactamase superfamily domain
+1202,ctg1_6627,Condensation domain
+1203,ctg1_6627,AMP-binding enzyme
+1204,ctg1_6627,AMP-binding enzyme C-terminal domain
+1205,ctg1_6627,Phosphopantetheine attachment site
+1206,ctg1_6627,Condensation domain
+1207,ctg1_6627,AMP-binding enzyme
+1208,ctg1_6627,AMP-binding enzyme C-terminal domain
+1209,ctg1_6627,Phosphopantetheine attachment site
+1210,ctg1_6627,Condensation domain
+1211,ctg1_6627,AMP-binding enzyme
+1212,ctg1_6627,AMP-binding enzyme C-terminal domain
+1213,ctg1_6627,Phosphopantetheine attachment site
+1214,ctg1_6627,Condensation domain
+1215,ctg1_6627,AMP-binding enzyme
+1216,ctg1_6627,AMP-binding enzyme C-terminal domain
+1217,ctg1_6627,Phosphopantetheine attachment site
+1218,ctg1_6627,Condensation domain
+1219,ctg1_6627,AMP-binding enzyme
+1220,ctg1_6627,AMP-binding enzyme C-terminal domain
+1221,ctg1_6627,Phosphopantetheine attachment site
+1222,ctg1_6627,Condensation domain
+1223,ctg1_6627,AMP-binding enzyme
+1224,ctg1_6627,AMP-binding enzyme C-terminal domain
+1225,ctg1_6627,Phosphopantetheine attachment site
+1226,ctg1_6627,Thioesterase domain
+1227,ctg1_6628,Acetyltransferase (GNAT) family
+1228,ctg1_6629,GHMP kinases N terminal domain
+1229,ctg1_6630,Penicillin amidase
+1230,ctg1_6631,Major Facilitator Superfamily
+1231,ctg1_6632,Aspartyl/Asparaginyl beta-hydroxylase
+1232,ctg1_6633,AMP-binding enzyme
+1233,ctg1_6633,Phosphopantetheine attachment site
+1234,ctg1_6633,Condensation domain
+1235,ctg1_6633,AMP-binding enzyme
+1236,ctg1_6633,AMP-binding enzyme C-terminal domain
+1237,ctg1_6633,Phosphopantetheine attachment site
+1238,ctg1_6634,Beta-eliminating lyase
+1239,ctg1_6635,Pyridoxal-phosphate dependent enzyme
+1240,ctg1_6636,ATP-grasp domain
+1241,ctg1_6636,L-amino acid ligase C-terminal domain 2
+1242,ctg1_6637,Phage integrase family
+1243,ctg1_6637,Phage integrase family
+1244,ctg1_6638,Helix-turn-helix domain
+1245,ctg1_6651,"Terminase large subunit, T4likevirus-type, N-terminal"
+1246,ctg1_6651,Terminase RNaseH-like domain
+1247,ctg1_6652,Phage portal protein
+1248,ctg1_6654,Caudovirus prohead serine protease
+1249,ctg1_6655,Phage capsid family
+1250,ctg1_6726,Peptidase family M13
+1251,ctg1_6726,Peptidase family M13
+1252,ctg1_6727,Chalcone isomerase-like
+1253,ctg1_6728,Aminotransferase class-V
+1254,ctg1_6729,Putative DNA-binding domain
+1255,ctg1_6730,Protein of unknown function (DUF692)
+1256,ctg1_6732,Helix-turn-helix
+1257,ctg1_6732,IrrE N-terminal-like domain
+1258,ctg1_6732,Short-chain fatty acyl coenzyme A regulators
+1259,ctg1_6733,Tetratricopeptide repeat
+1260,ctg1_6733,Tetratricopeptide repeat
+1261,ctg1_6733,Tetratricopeptide repeat
+1262,ctg1_6734,Transposase DDE domain
+1263,ctg1_7311,RHS Repeat
+1264,ctg1_7311,RHS Repeat
+1265,ctg1_7311,RHS protein
+1266,ctg1_7312,FHA domain
+1267,ctg1_7312,Domain of unknown function (DUF4123)
+1268,ctg1_7313,PAAR motif
+1269,ctg1_7314,Sulfite exporter TauE/SafE
+1270,ctg1_7315,Rhodanese-like domain
+1271,ctg1_7316,Metallo-beta-lactamase superfamily
+1272,ctg1_7316,Metallo-beta-lactamase superfamily
+1273,ctg1_7317,Sigma-54 interaction domain
+1274,ctg1_7317,"Bacterial regulatory protein, Fis family"
+1275,ctg1_7318,Pyridine nucleotide-disulphide oxidoreductase
+1276,ctg1_7319,Domain of unknown function (DUF4111)
+1277,ctg1_7321,Domain of unknown function (DUF4135)
+1278,ctg1_7321,Lanthionine synthetase C-like protein
+1279,ctg1_7322,von Willebrand factor type A domain
+1280,ctg1_7323,Major Facilitator Superfamily
+1281,ctg1_7324,Fungalysin/Thermolysin Propeptide Motif
+1282,ctg1_7324,"Thermolysin metallopeptidase, catalytic domain"
+1283,ctg1_7324,"Thermolysin metallopeptidase, alpha-helical domain"
+1284,ctg1_7324,Bacterial pre-peptidase C-terminal domain
+1285,ctg1_7324,Bacterial pre-peptidase C-terminal domain
+1286,ctg1_7325,Domain of unknown function (DUF5011)
+1287,ctg1_7326,NADH:flavin oxidoreductase / NADH oxidase family
+1288,ctg1_7411,N-terminal domain of unknown function (DUF4140)
+1289,ctg1_7411,Domain of unknown function (DUF4139)
+1290,ctg1_7412,Hydroxymethylglutaryl-coenzyme A synthase N terminal
+1291,ctg1_7412,Hydroxymethylglutaryl-coenzyme A synthase C terminal
+1292,ctg1_7413,Alcohol dehydrogenase GroES-like domain
+1293,ctg1_7413,Zinc-binding dehydrogenase
+1294,ctg1_7414,Coenzyme A transferase
+1295,ctg1_7415,Coenzyme A transferase
+1296,ctg1_7416,"Bacterial regulatory proteins, tetR family"
+1297,ctg1_7416,"Tetracyclin repressor-like, C-terminal domain"
+1298,ctg1_7417,His Kinase A (phospho-acceptor) domain
+1299,ctg1_7417,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+1300,ctg1_7417,Response regulator receiver domain
+1301,ctg1_7418,MoaC family
+1302,ctg1_7419,Cys/Met metabolism PLP-dependent enzyme
+1303,ctg1_7420,Pyridine nucleotide-disulphide oxidoreductase
+1304,ctg1_7421,Cyclic nucleotide-binding domain
+1305,ctg1_7422,Response regulator receiver domain
+1306,ctg1_7423,DAHL domain
+1307,ctg1_7423,PAS fold
+1308,ctg1_7423,His Kinase A (phospho-acceptor) domain
+1309,ctg1_7423,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+1310,ctg1_7423,Response regulator receiver domain
+1311,ctg1_7424,Hpt domain
+1312,ctg1_7425,F5/8 type C domain
+1313,ctg1_7425,Polysaccharide lyase
+1314,ctg1_7426,AhpC/TSA family
+1315,ctg1_7427,Ferritin-like domain
+1316,ctg1_7428,short chain dehydrogenase
+1317,ctg1_7429,chorismate binding enzyme
+1318,ctg1_7430,AMP-binding enzyme
+1319,ctg1_7430,AMP-binding enzyme C-terminal domain
+1320,ctg1_7431,Isochorismatase family
+1321,ctg1_7431,Phosphopantetheine attachment site
+1322,ctg1_7432,Condensation domain
+1323,ctg1_7432,AMP-binding enzyme
+1324,ctg1_7432,AMP-binding enzyme C-terminal domain
+1325,ctg1_7432,Phosphopantetheine attachment site
+1326,ctg1_7432,Male sterility protein
+1327,ctg1_7433,Class-II DAHP synthetase family
+1328,ctg1_7433,Class-II DAHP synthetase family
+1329,ctg1_7434,Gram-negative bacterial TonB protein C-terminal
+1330,ctg1_7434,TonB-dependent Receptor Plug Domain
+1331,ctg1_7434,TonB dependent receptor
+1332,ctg1_7436,MotA/TolQ/ExbB proton channel family
+1333,ctg1_7437,Biopolymer transport protein ExbD/TolR
+1334,ctg1_7438,Gram-negative bacterial TonB protein C-terminal
+1335,ctg1_7442,"Serine acetyltransferase, N-terminal"
+1336,ctg1_7443,Pyridoxal-phosphate dependent enzyme
+1337,ctg1_7450,His Kinase A (phospho-acceptor) domain
+1338,ctg1_7450,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+1339,ctg1_7491,Amidohydrolase family
+1340,ctg1_7492,Isochorismatase family
+1341,ctg1_7494,Response regulator receiver domain
+1342,ctg1_7494,"Bacterial regulatory proteins, luxR family"
+1343,ctg1_7495,Two component regulator propeller
+1344,ctg1_7495,Y_Y_Y domain
+1345,ctg1_7495,Histidine kinase
+1346,ctg1_7496,Alpha/beta hydrolase family
+1347,ctg1_7497,Cytochrome P450
+1348,ctg1_7498,"Terpene synthase family 2, C-terminal metal binding"
+1349,ctg1_7499,Subtilase family
+1350,ctg1_7500,Radical SAM N-terminal
+1351,ctg1_7500,Radical SAM superfamily
+1352,ctg1_7500,Domain of unknown function (DUF3362)
+1353,ctg1_7502,Haloacid dehalogenase-like hydrolase
+1354,ctg1_7504,Fatty acid hydroxylase
+1355,ctg1_7505,Enoyl-(Acyl carrier protein) reductase
+1356,ctg1_7506,Domain of unknown function (DUF4442)
+1357,ctg1_7521,Pyridine nucleotide-disulphide oxidoreductase
+1358,ctg1_7521,Rubredoxin NAD+ reductase C-terminal domain
+1359,ctg1_7521,BFD-like [2Fe-2S] binding domain
+1360,ctg1_7521,Nitrite/Sulfite reductase ferredoxin-like half domain
+1361,ctg1_7521,Nitrite and sulphite reductase 4Fe-4S domain
+1362,ctg1_7522,Rieske [2Fe-2S] domain
+1363,ctg1_7523,Uroporphyrinogen-III synthase HemD
+1364,ctg1_7525,Tetrapyrrole (Corrin/Porphyrin) Methylases
+1365,ctg1_7527,Radical SAM superfamily
+1366,ctg1_7527,Iron-sulfur cluster-binding domain
+1367,ctg1_7528,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+1368,ctg1_7529,Enoyl-(Acyl carrier protein) reductase
+1369,ctg1_7530,Cupin domain
+1370,ctg1_7530,Cupin domain
+1371,ctg1_7531,Alcohol dehydrogenase GroES-like domain
+1372,ctg1_7531,Zinc-binding dehydrogenase
+1373,ctg1_7533,Cupin domain
+1374,ctg1_7534,3-dehydroquinate synthase
+1375,ctg1_7535,GMC oxidoreductase
+1376,ctg1_7535,GMC oxidoreductase
+1377,ctg1_7536,"Glucose-6-phosphate dehydrogenase, NAD binding domain"
+1378,ctg1_7536,"Glucose-6-phosphate dehydrogenase, C-terminal domain"
+1379,ctg1_7538,short chain dehydrogenase
+1380,ctg1_7540,"Chalcone and stilbene synthases, N-terminal domain"
+1381,ctg1_7540,"Chalcone and stilbene synthases, C-terminal domain"
+1382,ctg1_7542,NAD(P)-binding Rossmann-like domain
+1383,ctg1_7542,Flavin-binding monooxygenase-like
+1384,ctg1_7543,"Bacterial regulatory proteins, tetR family"
+1385,ctg1_7544,Membrane dipeptidase (Peptidase family M19)
+1386,ctg1_7545,Domain of unknown function (DUF2383)
+1387,ctg1_7547,Response regulator receiver domain
+1388,ctg1_7547,Response regulator receiver domain
+1389,ctg1_7548,Response regulator receiver domain
+1390,ctg1_7548,CheB methylesterase
+1391,ctg1_7549,Hpt domain
+1392,ctg1_7549,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+1393,ctg1_7549,CheW-like domain
+1394,ctg1_7549,Response regulator receiver domain
+1395,ctg1_7550,CheW-like domain
+1396,ctg1_7551,"CheR methyltransferase, SAM binding domain"
+1397,ctg1_7552,CheW-like domain
+1398,ctg1_7553,Transglycosylase
+1399,ctg1_7614,TonB-dependent Receptor Plug Domain
+1400,ctg1_7614,TonB dependent receptor
+1401,ctg1_7615,Fatty acid desaturase
+1402,ctg1_7616,"Lactonase, 7-bladed beta-propeller"
+1403,ctg1_7620,"Bacterial regulatory helix-turn-helix protein, lysR family"
+1404,ctg1_7620,LysR substrate binding domain
+1405,ctg1_7621,NAD dependent epimerase/dehydratase family
+1406,ctg1_7622,CarS bacterial SH3 domain
+1407,ctg1_7624,Sigma-70 region 2
+1408,ctg1_7624,"Sigma-70, region 4"
+1409,ctg1_7625,Cysteine-rich secretory protein family
+1410,ctg1_7626,Metallo-beta-lactamase superfamily
+1411,ctg1_7627,"Bacterial regulatory proteins, tetR family"
+1412,ctg1_7630,Domain of unknown function (DUF1993)
+1413,ctg1_7631,"Galactose oxidase, central domain"
+1414,ctg1_7631,"Galactose oxidase, central domain"
+1415,ctg1_7632,Condensation domain
+1416,ctg1_7632,AMP-binding enzyme
+1417,ctg1_7632,AMP-binding enzyme C-terminal domain
+1418,ctg1_7632,Phosphopantetheine attachment site
+1419,ctg1_7632,Condensation domain
+1420,ctg1_7632,Condensation domain
+1421,ctg1_7632,AMP-binding enzyme
+1422,ctg1_7632,AMP-binding enzyme C-terminal domain
+1423,ctg1_7632,Phosphopantetheine attachment site
+1424,ctg1_7632,Condensation domain
+1425,ctg1_7632,Condensation domain
+1426,ctg1_7632,AMP-binding enzyme
+1427,ctg1_7632,AMP-binding enzyme C-terminal domain
+1428,ctg1_7632,Phosphopantetheine attachment site
+1429,ctg1_7632,Condensation domain
+1430,ctg1_7632,Phosphopantetheine attachment site
+1431,ctg1_7632,Thioesterase domain
+1432,ctg1_7633,"Beta-ketoacyl synthase, N-terminal domain"
+1433,ctg1_7633,"Beta-ketoacyl synthase, C-terminal domain"
+1434,ctg1_7633,Ketoacyl-synthetase C-terminal extension
+1435,ctg1_7633,Acyl transferase domain
+1436,ctg1_7633,Phosphopantetheine attachment site
+1437,ctg1_7633,Condensation domain
+1438,ctg1_7633,AMP-binding enzyme
+1439,ctg1_7633,Luciferase-like monooxygenase
+1440,ctg1_7633,AMP-binding enzyme
+1441,ctg1_7633,Condensation domain
+1442,ctg1_7633,AMP-binding enzyme
+1443,ctg1_7633,AMP-binding enzyme C-terminal domain
+1444,ctg1_7633,Phosphopantetheine attachment site
+1445,ctg1_7633,Condensation domain
+1446,ctg1_7634,AMP-binding enzyme
+1447,ctg1_7634,Phosphopantetheine attachment site
+1448,ctg1_7634,Condensation domain
+1449,ctg1_7634,AMP-binding enzyme
+1450,ctg1_7634,AMP-binding enzyme C-terminal domain
+1451,ctg1_7634,Phosphopantetheine attachment site
+1452,ctg1_7638,Major Facilitator Superfamily
+1453,ctg1_7639,Putative metal-binding motif
+1454,ctg1_7640,Putative metal-binding motif
+1455,ctg1_7641,"Bacterial regulatory helix-turn-helix protein, lysR family"
+1456,ctg1_7641,LysR substrate binding domain
+1457,ctg1_7645,FIST N domain
+1458,ctg1_7645,FIST C domain
+1459,ctg1_7647,Haloacid dehalogenase-like hydrolase
+1460,ctg1_7648,"Translation initiation factor IF-3, N-terminal domain"
+1461,ctg1_7648,"Translation initiation factor IF-3, C-terminal domain"
+1462,ctg1_7650,GAF domain
+1463,ctg1_7650,His Kinase A (phospho-acceptor) domain
+1464,ctg1_7650,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+1465,ctg1_7651,Fungalysin/Thermolysin Propeptide Motif
+1466,ctg1_7651,"Thermolysin metallopeptidase, catalytic domain"
+1467,ctg1_7651,"Thermolysin metallopeptidase, alpha-helical domain"
+1468,ctg1_7651,Bacterial pre-peptidase C-terminal domain
+1469,ctg1_7651,Bacterial pre-peptidase C-terminal domain
+1470,ctg1_7922,FlhB HrpN YscU SpaS Family
+1471,ctg1_7923,"Bacterial export proteins, family 1"
+1472,ctg1_7924,"Bacterial export proteins, family 3"
+1473,ctg1_7925,FliP family
+1474,ctg1_7927,Type III flagellar switch regulator (C-ring) FliN C-term
+1475,ctg1_7929,Secretory protein of YscJ/FliF family
+1476,ctg1_7932,PilZ domain
+1477,ctg1_7933,Response regulator receiver domain
+1478,ctg1_7934,Bacterial protein of unknown function (DUF885)
+1479,ctg1_7935,Inorganic pyrophosphatase
+1480,ctg1_7936,Subtilase family
+1481,ctg1_7936,Subtilase family
+1482,ctg1_7937,Putative zinc- or iron-chelating domain
+1483,ctg1_7939,Peptidase family S58
+1484,ctg1_7941,Condensation domain
+1485,ctg1_7941,Thioesterase domain
+1486,ctg1_7942,Condensation domain
+1487,ctg1_7942,Phosphopantetheine attachment site
+1488,ctg1_7942,Condensation domain
+1489,ctg1_7942,AMP-binding enzyme
+1490,ctg1_7942,AMP-binding enzyme C-terminal domain
+1491,ctg1_7942,Phosphopantetheine attachment site
+1492,ctg1_7943,Condensation domain
+1493,ctg1_7943,AMP-binding enzyme
+1494,ctg1_7943,AMP-binding enzyme C-terminal domain
+1495,ctg1_7943,Phosphopantetheine attachment site
+1496,ctg1_7943,Condensation domain
+1497,ctg1_7943,AMP-binding enzyme
+1498,ctg1_7943,AMP-binding enzyme C-terminal domain
+1499,ctg1_7943,Phosphopantetheine attachment site
+1500,ctg1_7943,Condensation domain
+1501,ctg1_7944,"Taurine catabolism dioxygenase TauD, TfdA family"
+1502,ctg1_7945,AMP-binding enzyme
+1503,ctg1_7945,Phosphopantetheine attachment site
+1504,ctg1_7945,"Beta-ketoacyl synthase, N-terminal domain"
+1505,ctg1_7945,"Beta-ketoacyl synthase, C-terminal domain"
+1506,ctg1_7945,Ketoacyl-synthetase C-terminal extension
+1507,ctg1_7945,Acyl transferase domain
+1508,ctg1_7945,Phosphopantetheine attachment site
+1509,ctg1_7945,Aminotransferase class-III
+1510,ctg1_7945,Condensation domain
+1511,ctg1_7945,AMP-binding enzyme
+1512,ctg1_7945,AMP-binding enzyme C-terminal domain
+1513,ctg1_7945,Phosphopantetheine attachment site
+1514,ctg1_7945,Condensation domain
+1515,ctg1_7946,Beta-lactamase
+1516,ctg1_7947,Cupin-like domain
+1517,ctg1_7948,Bacterial extracellular solute-binding protein
+1518,ctg1_7949,SPFH domain / Band 7 family
+1519,ctg1_7950,ABC transporter
+1520,ctg1_7952,Domain of unknown function (DUF697)
+1521,ctg1_7954,MJ1316 RNA cyclic group end recognition domain
+1522,ctg1_7955,"tRNA synthetase class II core domain (G, H, P, S and T)"
+1523,ctg1_7955,Anticodon binding domain
+1524,ctg1_7959,BatD DUF11 like domain
+1525,ctg1_7959,BatD DUF11 like domain
+1526,ctg1_7960,Tetratricopeptide repeat
+1527,ctg1_7960,Tetratricopeptide repeat
+1528,ctg1_7961,von Willebrand factor type A domain
+1529,ctg1_7962,Aerotolerance regulator N-terminal
+1530,ctg1_7962,von Willebrand factor type A domain
+1531,ctg1_7964,Protein of unknown function DUF58
+1532,ctg1_8365,A nuclease family of the HNH/ENDO VII superfamily with conserved AHH
+1533,ctg1_8367,ADP-ribosylglycohydrolase
+1534,ctg1_8368,Zinc-binding dehydrogenase
+1535,ctg1_8369,"Bacterial regulatory helix-turn-helix protein, lysR family"
+1536,ctg1_8369,LysR substrate binding domain
+1537,ctg1_8370,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+1538,ctg1_8373,Serine endopeptidase inhibitors
+1539,ctg1_8374,SCO1/SenC
+1540,ctg1_8375,Cyclic nucleotide-binding domain
+1541,ctg1_8375,Cyclic nucleotide-binding domain
+1542,ctg1_8377,Radical SAM superfamily
+1543,ctg1_8378,Cys/Met metabolism PLP-dependent enzyme
+1544,ctg1_8379,Putative multidrug resistance efflux transporter
+1545,ctg1_8380,Ricin-type beta-trefoil lectin domain-like
+1546,ctg1_8451,"ER-bound oxygenase mpaB/B'/Rubber oxygenase, catalytic domain"
+1547,ctg1_8452,DoxX
+1548,ctg1_8453,SnoaL-like polyketide cyclase
+1549,ctg1_8455,"Bacterial regulatory proteins, tetR family"
+1550,ctg1_8455,"Tetracyclin repressor-like, C-terminal domain"
+1551,ctg1_8456,Putative DNA-binding domain
+1552,ctg1_8457,Protein of unknown function (DUF692)
+1553,ctg1_8459,Ricin-type beta-trefoil lectin domain-like
+1554,ctg1_8461,Phage tail baseplate hub (GPD)
+1555,ctg1_8461,Type VI secretion system/phage-baseplate injector OB domain
+1556,ctg1_8462,"Type VI secretion, TssG"
+1557,ctg1_8851,Glucosamine-6-phosphate isomerases/6-phosphogluconolactonase
+1558,ctg1_8852,Phosphofructokinase
+1559,ctg1_8853,Protein of unknown function (DUF3396)
+1560,ctg1_8854,HD domain
+1561,ctg1_8855,"YcaO cyclodehydratase, ATP-ad Mg2+-binding"
+1562,ctg1_8856,Aldose 1-epimerase
+1563,ctg1_8857,Pyridoxal-phosphate dependent enzyme
+1564,ctg1_9039,Protein of unknown function (DUF4238)
+1565,ctg1_9040,YtkA-like
+1566,ctg1_9041,"Cytochrome C oxidase, cbb3-type, subunit III"
+1567,ctg1_9042,Protein of unknown function (DUF692)
+1568,ctg1_9043,Putative DNA-binding domain
+1569,ctg1_9046,Protein of unknown function (DUF3396)
+1570,ctg1_9048,ABC transporter
+1571,ctg1_9282,Sugar (and other) transporter
+1572,ctg1_9282,Sugar (and other) transporter
+1573,ctg1_9284,Transcription factor zinc-finger
+1574,ctg1_9284,Transcription factor zinc-finger
+1575,ctg1_9285,D-ala D-ala ligase C-terminus
+1576,ctg1_9286,alpha/beta hydrolase fold
+1577,ctg1_9287,Helix-turn-helix domain
+1578,ctg1_9287,MmyB-like transcription regulator ligand binding domain
+1579,ctg1_9291,Response regulator receiver domain
+1580,ctg1_9291,Domain of unknown function (DUF4388)
+1581,ctg1_9292,Dimerisation domain
+1582,ctg1_9292,O-methyltransferase domain
+1583,ctg1_9293,UbiA prenyltransferase family
+1584,ctg1_9294,FAD binding domain
+1585,ctg1_9295,short chain dehydrogenase
+1586,ctg1_9296,Methyl-accepting chemotaxis protein (MCP) signalling domain
+1587,ctg1_9298,"Chalcone and stilbene synthases, N-terminal domain"
+1588,ctg1_9298,"Chalcone and stilbene synthases, C-terminal domain"
+1589,ctg1_9299,AMP-binding enzyme
+1590,ctg1_9300,Pregnancy-associated plasma protein-A
+1591,ctg1_9301,AMP-binding enzyme
+1592,ctg1_9302,Phosphopantetheine attachment site
+1593,ctg1_9303,"Chalcone and stilbene synthases, N-terminal domain"
+1594,ctg1_9303,"Chalcone and stilbene synthases, C-terminal domain"
+1595,ctg1_9304,Endonuclease/Exonuclease/phosphatase family
+1596,ctg1_9305,Saccharopine dehydrogenase NADP binding domain
+1597,ctg1_9306,Glycosyl hydrolases family 16
+1598,ctg1_9306,Carbohydrate binding domain (family 11)
+1599,ctg1_9307,"tRNA synthetase class II core domain (G, H, P, S and T)"
+1600,ctg1_9307,Anticodon binding domain
+1601,ctg1_9307,"Prolyl-tRNA synthetase, C-terminal"
+1602,ctg1_9308,Calcineurin-like phosphoesterase
+1603,ctg1_9308,"5'-nucleotidase, C-terminal domain"
+1604,ctg1_9309,LigT like Phosphoesterase
+1605,ctg1_9309,LigT like Phosphoesterase
+1606,ctg1_9310,Putative metal-binding motif
+1607,ctg1_9310,Putative metal-binding motif
+1608,ctg1_9310,Putative metal-binding motif
+1609,ctg1_9310,Putative metal-binding motif
+1610,ctg1_9314,ABC transporter
+1611,ctg1_9315,ABC transporter
+1612,ctg1_9315,Branched-chain amino acid ATP-binding cassette transporter
+1613,ctg1_9316,Branched-chain amino acid transport system / permease component
+1614,ctg1_9317,Branched-chain amino acid transport system / permease component
+1615,ctg1_9318,Periplasmic binding protein
+1616,ctg1_9537,"Putative Actinobacterial Holin-X, holin superfamily III"
+1617,ctg1_9538,ADP-ribosylglycohydrolase
+1618,ctg1_9540,"ATP synthase, Delta/Epsilon chain, beta-sandwich domain"
+1619,ctg1_9542,"ATP synthase alpha/beta family, beta-barrel domain"
+1620,ctg1_9542,"ATP synthase alpha/beta family, nucleotide-binding domain"
+1621,ctg1_9543,ATP synthase
+1622,ctg1_9544,DUF218 domain
+1623,ctg1_9546,AI-2E family transporter
+1624,ctg1_9547,Histone H1-like nucleoprotein HC2
+1625,ctg1_9548,Thioredoxin
+1626,ctg1_9549,"Terpene synthase family 2, C-terminal metal binding"
+1627,ctg1_9550,Peptidase family M3
+1628,ctg1_9552,His Kinase A (phospho-acceptor) domain
+1629,ctg1_9552,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+1630,ctg1_9553,CDP-alcohol phosphatidyltransferase
+1631,ctg1_9554,"Bacterial regulatory protein, arsR family"
+1632,ctg1_9555,Activator of Hsp90 ATPase homolog 1-like protein
+1633,ctg1_9557,Domain of unknown function (DU1801)
+1634,ctg1_9559,Metallo-beta-lactamase superfamily
