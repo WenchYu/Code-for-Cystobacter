@@ -1,0 +1,8 @@
+Bio
+rdkit
+spectrum_utils
+ms_entropy
+matchms
+SpectalEntropy
+spectrum-utils
+FPSim2

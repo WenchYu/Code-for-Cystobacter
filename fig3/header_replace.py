@@ -4,7 +4,7 @@
 # @Software : PyCharm
 '''
 header of each sequence must be pure number (not string)
-
+Conver to fasta format
 '''
 import time
 

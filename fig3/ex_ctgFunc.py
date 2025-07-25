@@ -3,7 +3,7 @@
 # @Auther :Yuwenchao
 # @Software : PyCharm
 '''
-
+Extract the function of proteins (ctg_locus)
 '''
 import os
 import json

@@ -1,5 +1,6 @@
 
-
+import sys
+sys.path.append('../')
 import networkx as nx
 from my_packages import functions
 
@@ -17,20 +18,20 @@ def parse_polymer_file(inp) -> dict:
 
 def calculate_kmer_frequency(sequence, k):
     """
-    计算给定序列中的k-mer频率。
+    Inject language or reference
 
-    参数:
-        sequence (str): 输入的序列字符串。
-        k (int): k-mer的长度。
+    param:
+    sequence (str): input string
+    k (int): length of k-mer
 
-    返回:
-        dict: 包含k-mer及其频率的字典。
+    returen:
+        dict: dictionary of k-mer and frequency
     """
     if k <= 0:
-        raise ValueError("k必须大于0")
+        raise ValueError("k must > 0")
     n = len(sequence)
     if n < k:
-        return {}  # 序列长度小于k，无法生成k-mer
+        return {}
     kmers = [sequence[i:i + k] for i in range(n - k + 1)]
     kmer_counts = {}
     for kmer in kmers:
@@ -44,31 +45,32 @@ def calculate_kmer_frequency(sequence, k):
 
 def calculate_weighted_euclidean_distance(freq1, freq2, weights=None):
     """
-    计算两个k-mer频率字典之间的加权欧氏距离。
+    Compute weighted Euclidean distance between two k-mer frequency dictionaries
 
-    参数:
-        freq1 (dict): 第一个k-mer频率字典。
-        freq2 (dict): 第二个k-mer频率字典。
-        weights (dict, optional): 每个k-mer的权重字典。默认为None。
+    :param:
+        freq1 (dict): The first k-mer frequency dictionary
+        freq2 (dict): The second k-mer frequency dictionary.
+        weights (dict, optional): the weight of each frequency, default = 1。
 
-    返回:
-        float: 两个频率字典之间的加权欧氏距离。
+    :return:
+        float: similarity (1-distance)
     """
-    # 获取所有唯一的k-mer
+
+    # Get all unique k-mers
     all_kmers = set(freq1.keys()).union(freq2.keys())
 
-    # 如果未提供权重，则默认为1
-    if weights is None:
-        weights = {kmer: 1 for kmer in all_kmers}
 
-    # 计算加权欧氏距离
+    if weights is None:
+        weights = {kmer: 1 for kmer in all_kmers} # If no weight is provided, it defaults to 1
+
+    # calculate distance
     distance = 0.0
     for kmer in all_kmers:
         f1 = freq1.get(kmer, 0.0)
         f2 = freq2.get(kmer, 0.0)
-        weight = weights.get(kmer, 1.0)  # 如果kmer不在权重中，默认权重为1
+        weight = weights.get(kmer, 1.0)
         distance += ((f1 - f2) * weight) ** 2
-    distance = distance ** 0.5  # 欧氏距离需要开平方
+    distance = distance ** 0.5
     return 1-distance
 
 
@@ -103,7 +105,7 @@ def clustering(polymer_dict, k, threshold, output, topk):
 if __name__ == '__main__':
 
     w = 1
-    threshold = 0.9
+    threshold = 0.8
     k = 2
     topk = 5
     output = f'CorePeptide_K{k}Sim{threshold}Top{topk}.graphml'
