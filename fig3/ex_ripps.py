@@ -5,11 +5,11 @@
 '''
 
 '''
+import sys
+sys.path.append('../astool/')
 import os
-from script import extractGBK
 import pandas as pd
 from astool.antismash_utils import AntismashRegionGBKParser
-from astool.utils import get_gbk_dir_ls
 
 if __name__ == '__main__':
     tsv_output = 'ripps_cystobacter.tsv'

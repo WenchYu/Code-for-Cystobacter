@@ -13,7 +13,6 @@ import pandas as pd
 
 def ex_ctgFunc(file, ):
     '''
-    有些的key不对
     :param file:
     :return:
     '''

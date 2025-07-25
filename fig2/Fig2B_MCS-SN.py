@@ -5,6 +5,8 @@
 '''
 
 '''
+import sys
+sys.path.append('../my_packages')
 import pandas as pd
 import networkx as nx
 from rdkit.Chem import rdFMCS,MolFromSmiles
@@ -48,7 +50,7 @@ def MCS(mol1, mol2):
     return similarity
 
 if __name__ == '__main__':
-    file = 'cystobacter.xlsx'
+    file = './/cystobacter.xlsx'
 
     threshold = 0.7
     topk = 10

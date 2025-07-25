@@ -5,12 +5,14 @@
 '''
 
 '''
+import sys
+sys.path.append('../my_packages')
 import time
 from my_packages import functions
 
 if __name__ == '__main__':
 
-    file = 'Fig2B_MCS-SSN_activity.xlsx'
+    file = './Fig2B_npatls-cystobacter.xlsx'
     df = functions.df_preprocess(file)
 
     '''New columns'''

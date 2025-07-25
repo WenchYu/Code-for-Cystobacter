@@ -5,12 +5,13 @@
 '''
 hist
 '''
+import sys
+sys.path.append('../my_packages')
 import collections
 from my_packages import functions
 
-
 if __name__ == '__main__':
-    file = 'Fig2A_BGC-SSN_attributes.csv'
+    file = './Fig2A_BGC-SSN_attributes.csv'
     df = functions.df_preprocess(file)
     # strains = list(collections.Counter(df.Strains).keys())
     clusters = list(collections.Counter(df.__ccCluster).keys())
